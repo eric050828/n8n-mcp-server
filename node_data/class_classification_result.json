@@ -1,0 +1,1940 @@
+{
+  "classes": {
+    "core": [
+      {
+        "name": "Code",
+        "type": "n8n-nodes-base.code",
+        "path": "Code",
+        "class": "core"
+      },
+      {
+        "name": "Executecommand",
+        "type": "n8n-nodes-base.executeCommand",
+        "path": "Executecommand",
+        "class": "core"
+      },
+      {
+        "name": "Executeworkflow",
+        "type": "n8n-nodes-base.executeWorkflow",
+        "path": "Executeworkflow",
+        "class": "core"
+      },
+      {
+        "name": "Executiondata",
+        "type": "n8n-nodes-base.executionData",
+        "path": "Executiondata",
+        "class": "core"
+      },
+      {
+        "name": "Form",
+        "type": "n8n-nodes-base.form",
+        "path": "Form",
+        "class": "core"
+      },
+      {
+        "name": "Ftp",
+        "type": "n8n-nodes-base.ftp",
+        "path": "Ftp",
+        "class": "core"
+      },
+      {
+        "name": "Httprequest",
+        "type": "n8n-nodes-base.httpRequest",
+        "path": "Httprequest",
+        "class": "core"
+      },
+      {
+        "name": "N8N",
+        "type": "n8n-nodes-base.n8n",
+        "path": "N8N",
+        "class": "core"
+      },
+      {
+        "name": "Noop",
+        "type": "n8n-nodes-base.noOp",
+        "path": "Noop",
+        "class": "core"
+      },
+      {
+        "name": "Respondtowebhook",
+        "type": "n8n-nodes-base.respondToWebhook",
+        "path": "Respondtowebhook",
+        "class": "core"
+      },
+      {
+        "name": "Stickynote",
+        "type": "n8n-nodes-base.stickyNote",
+        "path": "Stickynote",
+        "class": "core"
+      },
+      {
+        "name": "Wait",
+        "type": "n8n-nodes-base.wait",
+        "path": "Wait",
+        "class": "core"
+      }
+    ],
+    "trigger": [
+      {
+        "name": "Emailreadimap",
+        "type": "n8n-nodes-base.emailReadImap",
+        "path": "Emailreadimap",
+        "class": "trigger"
+      },
+      {
+        "name": "Errortrigger",
+        "type": "n8n-nodes-base.errorTrigger",
+        "path": "Errortrigger",
+        "class": "trigger"
+      },
+      {
+        "name": "Executeworkflowtrigger",
+        "type": "n8n-nodes-base.executeWorkflowTrigger",
+        "path": "Executeworkflowtrigger",
+        "class": "trigger"
+      },
+      {
+        "name": "Localfiletrigger",
+        "type": "n8n-nodes-base.localFileTrigger",
+        "path": "Localfiletrigger",
+        "class": "trigger"
+      },
+      {
+        "name": "Manualtrigger",
+        "type": "n8n-nodes-base.manualTrigger",
+        "path": "Manualtrigger",
+        "class": "trigger"
+      },
+      {
+        "name": "N8Ntrigger",
+        "type": "n8n-nodes-base.n8nTrigger",
+        "path": "N8Ntrigger",
+        "class": "trigger"
+      },
+      {
+        "name": "Schedule",
+        "type": "n8n-nodes-base.scheduleTrigger",
+        "path": "Schedule",
+        "class": "trigger"
+      },
+      {
+        "name": "Ssetrigger",
+        "type": "n8n-nodes-base.sseTrigger",
+        "path": "Ssetrigger",
+        "class": "trigger"
+      },
+      {
+        "name": "Webhook",
+        "type": "n8n-nodes-base.webhook",
+        "path": "Webhook",
+        "class": "trigger"
+      }
+    ],
+    "flow": [
+      {
+        "name": "Comparedatasets",
+        "type": "n8n-nodes-base.compareDatasets",
+        "path": "Comparedatasets",
+        "class": "flow"
+      },
+      {
+        "name": "Filter",
+        "type": "n8n-nodes-base.filter",
+        "path": "Filter",
+        "class": "flow"
+      },
+      {
+        "name": "If",
+        "type": "n8n-nodes-base.if",
+        "path": "If",
+        "class": "flow"
+      },
+      {
+        "name": "Merge",
+        "type": "n8n-nodes-base.merge",
+        "path": "Merge",
+        "class": "flow"
+      },
+      {
+        "name": "Splitinbatches",
+        "type": "n8n-nodes-base.splitInBatches",
+        "path": "Splitinbatches",
+        "class": "flow"
+      },
+      {
+        "name": "Stopanderror",
+        "type": "n8n-nodes-base.stopAndError",
+        "path": "Stopanderror",
+        "class": "flow"
+      },
+      {
+        "name": "Switch",
+        "type": "n8n-nodes-base.switch",
+        "path": "Switch",
+        "class": "flow"
+      }
+    ],
+    "action": [
+      {
+        "name": "Actionnetwork",
+        "type": "n8n-nodes-base.actionNetwork",
+        "path": "Actionnetwork",
+        "class": "action"
+      },
+      {
+        "name": "Activecampaign",
+        "type": "n8n-nodes-base.activeCampaign",
+        "path": "Activecampaign",
+        "class": "action"
+      },
+      {
+        "name": "AcuityScheduling",
+        "type": "n8n-nodes-base.acuitySchedulingTrigger",
+        "path": "AcuityScheduling",
+        "class": "action"
+      },
+      {
+        "name": "Adalo",
+        "type": "n8n-nodes-base.adalo",
+        "path": "Adalo",
+        "class": "action"
+      },
+      {
+        "name": "Affinity",
+        "type": "n8n-nodes-base.affinity",
+        "path": "Affinity",
+        "class": "action"
+      },
+      {
+        "name": "Aggregate",
+        "type": "n8n-nodes-base.aggregate",
+        "path": "Aggregate",
+        "class": "action"
+      },
+      {
+        "name": "Agilecrm",
+        "type": "n8n-nodes-base.agileCrm",
+        "path": "Agilecrm",
+        "class": "action"
+      },
+      {
+        "name": "Airtable",
+        "type": "n8n-nodes-base.airtable",
+        "path": "Airtable",
+        "class": "action"
+      },
+      {
+        "name": "Airtop",
+        "type": "n8n-nodes-base.airtop",
+        "path": "Airtop",
+        "class": "action"
+      },
+      {
+        "name": "Aitransform",
+        "type": "n8n-nodes-base.aiTransform",
+        "path": "Aitransform",
+        "class": "action"
+      },
+      {
+        "name": "Amqp",
+        "type": "n8n-nodes-base.amqp",
+        "path": "Amqp",
+        "class": "action"
+      },
+      {
+        "name": "Apitemplateio",
+        "type": "n8n-nodes-base.apiTemplateIo",
+        "path": "Apitemplateio",
+        "class": "action"
+      },
+      {
+        "name": "Asana",
+        "type": "n8n-nodes-base.asana",
+        "path": "Asana",
+        "class": "action"
+      },
+      {
+        "name": "Automizy",
+        "type": "n8n-nodes-base.automizy",
+        "path": "Automizy",
+        "class": "action"
+      },
+      {
+        "name": "Autopilot",
+        "type": "n8n-nodes-base.autopilot",
+        "path": "Autopilot",
+        "class": "action"
+      },
+      {
+        "name": "Aws",
+        "type": "n8n-nodes-base.awsLambda",
+        "path": "Aws",
+        "class": "action"
+      },
+      {
+        "name": "Azurecosmosdb",
+        "type": "n8n-nodes-base.azureCosmosDb",
+        "path": "Azurecosmosdb",
+        "class": "action"
+      },
+      {
+        "name": "Bamboohr",
+        "type": "n8n-nodes-base.bambooHr",
+        "path": "Bamboohr",
+        "class": "action"
+      },
+      {
+        "name": "Bannerbear",
+        "type": "n8n-nodes-base.bannerbear",
+        "path": "Bannerbear",
+        "class": "action"
+      },
+      {
+        "name": "Baserow",
+        "type": "n8n-nodes-base.baserow",
+        "path": "Baserow",
+        "class": "action"
+      },
+      {
+        "name": "Beeminder",
+        "type": "n8n-nodes-base.beeminder",
+        "path": "Beeminder",
+        "class": "action"
+      },
+      {
+        "name": "Bitbucket",
+        "type": "n8n-nodes-base.bitbucketTrigger",
+        "path": "Bitbucket",
+        "class": "action"
+      },
+      {
+        "name": "Bitly",
+        "type": "n8n-nodes-base.bitly",
+        "path": "Bitly",
+        "class": "action"
+      },
+      {
+        "name": "Bitwarden",
+        "type": "n8n-nodes-base.bitwarden",
+        "path": "Bitwarden",
+        "class": "action"
+      },
+      {
+        "name": "Box",
+        "type": "n8n-nodes-base.box",
+        "path": "Box",
+        "class": "action"
+      },
+      {
+        "name": "Brandfetch",
+        "type": "n8n-nodes-base.Brandfetch",
+        "path": "Brandfetch",
+        "class": "action"
+      },
+      {
+        "name": "Brevo",
+        "type": "n8n-nodes-base.brevo",
+        "path": "Brevo",
+        "class": "action"
+      },
+      {
+        "name": "Bubble",
+        "type": "n8n-nodes-base.bubble",
+        "path": "Bubble",
+        "class": "action"
+      },
+      {
+        "name": "Cal",
+        "type": "n8n-nodes-base.calTrigger",
+        "path": "Cal",
+        "class": "action"
+      },
+      {
+        "name": "Calendly",
+        "type": "n8n-nodes-base.calendlyTrigger",
+        "path": "Calendly",
+        "class": "action"
+      },
+      {
+        "name": "Chargebee",
+        "type": "n8n-nodes-base.chargebee",
+        "path": "Chargebee",
+        "class": "action"
+      },
+      {
+        "name": "Circleci",
+        "type": "n8n-nodes-base.circleCi",
+        "path": "Circleci",
+        "class": "action"
+      },
+      {
+        "name": "Cisco",
+        "type": "n8n-nodes-base.ciscoWebex",
+        "path": "Cisco",
+        "class": "action"
+      },
+      {
+        "name": "Clearbit",
+        "type": "n8n-nodes-base.clearbit",
+        "path": "Clearbit",
+        "class": "action"
+      },
+      {
+        "name": "Clickup",
+        "type": "n8n-nodes-base.clickUp",
+        "path": "Clickup",
+        "class": "action"
+      },
+      {
+        "name": "Clockify",
+        "type": "n8n-nodes-base.clockify",
+        "path": "Clockify",
+        "class": "action"
+      },
+      {
+        "name": "Cloudflare",
+        "type": "n8n-nodes-base.cloudflare",
+        "path": "Cloudflare",
+        "class": "action"
+      },
+      {
+        "name": "Cockpit",
+        "type": "n8n-nodes-base.cockpit",
+        "path": "Cockpit",
+        "class": "action"
+      },
+      {
+        "name": "Coda",
+        "type": "n8n-nodes-base.coda",
+        "path": "Coda",
+        "class": "action"
+      },
+      {
+        "name": "Coingecko",
+        "type": "n8n-nodes-base.coinGecko",
+        "path": "Coingecko",
+        "class": "action"
+      },
+      {
+        "name": "Compression",
+        "type": "n8n-nodes-base.compression",
+        "path": "Compression",
+        "class": "action"
+      },
+      {
+        "name": "Contentful",
+        "type": "n8n-nodes-base.contentful",
+        "path": "Contentful",
+        "class": "action"
+      },
+      {
+        "name": "Convertkit",
+        "type": "n8n-nodes-base.convertKit",
+        "path": "Convertkit",
+        "class": "action"
+      },
+      {
+        "name": "Converttofile",
+        "type": "n8n-nodes-base.convertToFile",
+        "path": "Converttofile",
+        "class": "action"
+      },
+      {
+        "name": "Copper",
+        "type": "n8n-nodes-base.copper",
+        "path": "Copper",
+        "class": "action"
+      },
+      {
+        "name": "Cortex",
+        "type": "n8n-nodes-base.cortex",
+        "path": "Cortex",
+        "class": "action"
+      },
+      {
+        "name": "Cratedb",
+        "type": "n8n-nodes-base.crateDb",
+        "path": "Cratedb",
+        "class": "action"
+      },
+      {
+        "name": "Cron",
+        "type": "n8n-nodes-base.cron",
+        "path": "Cron",
+        "class": "action"
+      },
+      {
+        "name": "Crowddev",
+        "type": "n8n-nodes-base.crowdDev",
+        "path": "Crowddev",
+        "class": "action"
+      },
+      {
+        "name": "Crypto",
+        "type": "n8n-nodes-base.crypto",
+        "path": "Crypto",
+        "class": "action"
+      },
+      {
+        "name": "Customerio",
+        "type": "n8n-nodes-base.customerIo",
+        "path": "Customerio",
+        "class": "action"
+      },
+      {
+        "name": "Datetime",
+        "type": "n8n-nodes-base.dateTime",
+        "path": "Datetime",
+        "class": "action"
+      },
+      {
+        "name": "Debughelper",
+        "type": "n8n-nodes-base.debughelper",
+        "path": "Debughelper",
+        "class": "action"
+      },
+      {
+        "name": "Deepl",
+        "type": "n8n-nodes-base.deepL",
+        "path": "Deepl",
+        "class": "action"
+      },
+      {
+        "name": "Demio",
+        "type": "n8n-nodes-base.demio",
+        "path": "Demio",
+        "class": "action"
+      },
+      {
+        "name": "Dhl",
+        "type": "n8n-nodes-base.dhl",
+        "path": "Dhl",
+        "class": "action"
+      },
+      {
+        "name": "Discord",
+        "type": "n8n-nodes-base.discord",
+        "path": "Discord",
+        "class": "action"
+      },
+      {
+        "name": "Discourse",
+        "type": "n8n-nodes-base.discourse",
+        "path": "Discourse",
+        "class": "action"
+      },
+      {
+        "name": "Disqus",
+        "type": "n8n-nodes-base.disqus",
+        "path": "Disqus",
+        "class": "action"
+      },
+      {
+        "name": "Drift",
+        "type": "n8n-nodes-base.drift",
+        "path": "Drift",
+        "class": "action"
+      },
+      {
+        "name": "Dropbox",
+        "type": "n8n-nodes-base.dropbox",
+        "path": "Dropbox",
+        "class": "action"
+      },
+      {
+        "name": "Dropcontact",
+        "type": "n8n-nodes-base.dropcontact",
+        "path": "Dropcontact",
+        "class": "action"
+      },
+      {
+        "name": "E2eTest",
+        "type": "n8n-nodes-base.e2eTest",
+        "path": "E2eTest",
+        "class": "action"
+      },
+      {
+        "name": "Editimage",
+        "type": "n8n-nodes-base.editImage",
+        "path": "Editimage",
+        "class": "action"
+      },
+      {
+        "name": "Egoi",
+        "type": "n8n-nodes-base.egoi",
+        "path": "Egoi",
+        "class": "action"
+      },
+      {
+        "name": "Elastic",
+        "type": "n8n-nodes-base.elasticsearch",
+        "path": "Elastic",
+        "class": "action"
+      },
+      {
+        "name": "Elasticsearch",
+        "type": "n8n-nodes-base.elasticsearch",
+        "path": "Elasticsearch",
+        "class": "action"
+      },
+      {
+        "name": "Elasticsecurity",
+        "type": "n8n-nodes-base.elasticSecurity",
+        "path": "Elasticsecurity",
+        "class": "action"
+      },
+      {
+        "name": "Emailsend",
+        "type": "n8n-nodes-base.emailSend",
+        "path": "Emailsend",
+        "class": "action"
+      },
+      {
+        "name": "Emelia",
+        "type": "n8n-nodes-base.emelia",
+        "path": "Emelia",
+        "class": "action"
+      },
+      {
+        "name": "Erpnext",
+        "type": "n8n-nodes-base.erpNext",
+        "path": "Erpnext",
+        "class": "action"
+      },
+      {
+        "name": "Evaluationmetrics",
+        "type": "n8n-nodes-base.evaluationMetrics",
+        "path": "Evaluationmetrics",
+        "class": "action"
+      },
+      {
+        "name": "Eventbrite",
+        "type": "n8n-nodes-base.eventbriteTrigger",
+        "path": "Eventbrite",
+        "class": "action"
+      },
+      {
+        "name": "Extractfromfile",
+        "type": "n8n-nodes-base.extractFromFile",
+        "path": "Extractfromfile",
+        "class": "action"
+      },
+      {
+        "name": "Facebook",
+        "type": "n8n-nodes-base.facebookGraphApi",
+        "path": "Facebook",
+        "class": "action"
+      },
+      {
+        "name": "FacebookLeadAds",
+        "type": "n8n-nodes-base.facebookLeadAdsTrigger",
+        "path": "FacebookLeadAds",
+        "class": "action"
+      },
+      {
+        "name": "Figma",
+        "type": "n8n-nodes-base.figmaTrigger",
+        "path": "Figma",
+        "class": "action"
+      },
+      {
+        "name": "Filemaker",
+        "type": "n8n-nodes-base.filemaker",
+        "path": "Filemaker",
+        "class": "action"
+      },
+      {
+        "name": "Files",
+        "type": "n8n-nodes-base.convertToFile",
+        "path": "Files",
+        "class": "action"
+      },
+      {
+        "name": "Flow",
+        "type": "n8n-nodes-base.flow",
+        "path": "Flow",
+        "class": "action"
+      },
+      {
+        "name": "FormIo",
+        "type": "n8n-nodes-base.formIoTrigger",
+        "path": "FormIo",
+        "class": "action"
+      },
+      {
+        "name": "Formstack",
+        "type": "n8n-nodes-base.formstackTrigger",
+        "path": "Formstack",
+        "class": "action"
+      },
+      {
+        "name": "Freshdesk",
+        "type": "n8n-nodes-base.freshdesk",
+        "path": "Freshdesk",
+        "class": "action"
+      },
+      {
+        "name": "Freshservice",
+        "type": "n8n-nodes-base.freshservice",
+        "path": "Freshservice",
+        "class": "action"
+      },
+      {
+        "name": "Freshworkscrm",
+        "type": "n8n-nodes-base.freshworksCrm",
+        "path": "Freshworkscrm",
+        "class": "action"
+      },
+      {
+        "name": "Function",
+        "type": "n8n-nodes-base.function",
+        "path": "Function",
+        "class": "action"
+      },
+      {
+        "name": "Functionitem",
+        "type": "n8n-nodes-base.functionItem",
+        "path": "Functionitem",
+        "class": "action"
+      },
+      {
+        "name": "Getresponse",
+        "type": "n8n-nodes-base.getResponse",
+        "path": "Getresponse",
+        "class": "action"
+      },
+      {
+        "name": "Ghost",
+        "type": "n8n-nodes-base.ghost",
+        "path": "Ghost",
+        "class": "action"
+      },
+      {
+        "name": "Git",
+        "type": "n8n-nodes-base.git",
+        "path": "Git",
+        "class": "action"
+      },
+      {
+        "name": "Github",
+        "type": "n8n-nodes-base.github",
+        "path": "Github",
+        "class": "action"
+      },
+      {
+        "name": "Gitlab",
+        "type": "n8n-nodes-base.gitlab",
+        "path": "Gitlab",
+        "class": "action"
+      },
+      {
+        "name": "Gmail",
+        "type": "n8n-nodes-base.gmail",
+        "path": "Gmail",
+        "class": "action"
+      },
+      {
+        "name": "Gong",
+        "type": "n8n-nodes-base.gong",
+        "path": "Gong",
+        "class": "action"
+      },
+      {
+        "name": "Google",
+        "type": "n8n-nodes-base.googleAds",
+        "path": "Google",
+        "class": "action"
+      },
+      {
+        "name": "Gotify",
+        "type": "n8n-nodes-base.gotify",
+        "path": "Gotify",
+        "class": "action"
+      },
+      {
+        "name": "Gotowebinar",
+        "type": "n8n-nodes-base.goToWebinar",
+        "path": "Gotowebinar",
+        "class": "action"
+      },
+      {
+        "name": "Grafana",
+        "type": "n8n-nodes-base.grafana",
+        "path": "Grafana",
+        "class": "action"
+      },
+      {
+        "name": "Graphql",
+        "type": "n8n-nodes-base.graphql",
+        "path": "Graphql",
+        "class": "action"
+      },
+      {
+        "name": "Grist",
+        "type": "n8n-nodes-base.grist",
+        "path": "Grist",
+        "class": "action"
+      },
+      {
+        "name": "Gsuiteadmin",
+        "type": "n8n-nodes-base.gSuiteAdmin",
+        "path": "Gsuiteadmin",
+        "class": "action"
+      },
+      {
+        "name": "Gumroad",
+        "type": "n8n-nodes-base.gumroadTrigger",
+        "path": "Gumroad",
+        "class": "action"
+      },
+      {
+        "name": "Hackernews",
+        "type": "n8n-nodes-base.hackerNews",
+        "path": "Hackernews",
+        "class": "action"
+      },
+      {
+        "name": "Halopsa",
+        "type": "n8n-nodes-base.haloPSA",
+        "path": "Halopsa",
+        "class": "action"
+      },
+      {
+        "name": "Harvest",
+        "type": "n8n-nodes-base.harvest",
+        "path": "Harvest",
+        "class": "action"
+      },
+      {
+        "name": "Helpscout",
+        "type": "n8n-nodes-base.helpScout",
+        "path": "Helpscout",
+        "class": "action"
+      },
+      {
+        "name": "Highlevel",
+        "type": "n8n-nodes-base.highLevel",
+        "path": "Highlevel",
+        "class": "action"
+      },
+      {
+        "name": "Homeassistant",
+        "type": "n8n-nodes-base.homeAssistant",
+        "path": "Homeassistant",
+        "class": "action"
+      },
+      {
+        "name": "Html",
+        "type": "n8n-nodes-base.html",
+        "path": "Html",
+        "class": "action"
+      },
+      {
+        "name": "Htmlextract",
+        "type": "n8n-nodes-base.htmlExtract",
+        "path": "Htmlextract",
+        "class": "action"
+      },
+      {
+        "name": "Hubspot",
+        "type": "n8n-nodes-base.hubspot",
+        "path": "Hubspot",
+        "class": "action"
+      },
+      {
+        "name": "Humanticai",
+        "type": "n8n-nodes-base.humanticAi",
+        "path": "Humanticai",
+        "class": "action"
+      },
+      {
+        "name": "Hunter",
+        "type": "n8n-nodes-base.hunter",
+        "path": "Hunter",
+        "class": "action"
+      },
+      {
+        "name": "Ical",
+        "type": "n8n-nodes-base.iCal",
+        "path": "Ical",
+        "class": "action"
+      },
+      {
+        "name": "ICalendar",
+        "type": "n8n-nodes-base.iCal",
+        "path": "ICalendar",
+        "class": "action"
+      },
+      {
+        "name": "Intercom",
+        "type": "n8n-nodes-base.intercom",
+        "path": "Intercom",
+        "class": "action"
+      },
+      {
+        "name": "Interval",
+        "type": "n8n-nodes-base.interval",
+        "path": "Interval",
+        "class": "action"
+      },
+      {
+        "name": "Invoiceninja",
+        "type": "n8n-nodes-base.invoiceNinja",
+        "path": "Invoiceninja",
+        "class": "action"
+      },
+      {
+        "name": "Itemlists",
+        "type": "n8n-nodes-base.itemLists",
+        "path": "Itemlists",
+        "class": "action"
+      },
+      {
+        "name": "Iterable",
+        "type": "n8n-nodes-base.iterable",
+        "path": "Iterable",
+        "class": "action"
+      },
+      {
+        "name": "Jenkins",
+        "type": "n8n-nodes-base.jenkins",
+        "path": "Jenkins",
+        "class": "action"
+      },
+      {
+        "name": "Jinaai",
+        "type": "n8n-nodes-base.jinaAi",
+        "path": "Jinaai",
+        "class": "action"
+      },
+      {
+        "name": "Jira",
+        "type": "n8n-nodes-base.jira",
+        "path": "Jira",
+        "class": "action"
+      },
+      {
+        "name": "JotForm",
+        "type": "n8n-nodes-base.jotFormTrigger",
+        "path": "JotForm",
+        "class": "action"
+      },
+      {
+        "name": "Jwt",
+        "type": "n8n-nodes-base.jwt",
+        "path": "Jwt",
+        "class": "action"
+      },
+      {
+        "name": "Kafka",
+        "type": "n8n-nodes-base.kafka",
+        "path": "Kafka",
+        "class": "action"
+      },
+      {
+        "name": "Keap",
+        "type": "n8n-nodes-base.keap",
+        "path": "Keap",
+        "class": "action"
+      },
+      {
+        "name": "Kitemaker",
+        "type": "n8n-nodes-base.kitemaker",
+        "path": "Kitemaker",
+        "class": "action"
+      },
+      {
+        "name": "Kobotoolbox",
+        "type": "n8n-nodes-base.koBoToolbox",
+        "path": "Kobotoolbox",
+        "class": "action"
+      },
+      {
+        "name": "Ldap",
+        "type": "n8n-nodes-base.ldap",
+        "path": "Ldap",
+        "class": "action"
+      },
+      {
+        "name": "Lemlist",
+        "type": "n8n-nodes-base.lemlist",
+        "path": "Lemlist",
+        "class": "action"
+      },
+      {
+        "name": "Limit",
+        "type": "n8n-nodes-base.limit",
+        "path": "Limit",
+        "class": "action"
+      },
+      {
+        "name": "Line",
+        "type": "n8n-nodes-base.line",
+        "path": "Line",
+        "class": "action"
+      },
+      {
+        "name": "Linear",
+        "type": "n8n-nodes-base.linear",
+        "path": "Linear",
+        "class": "action"
+      },
+      {
+        "name": "Lingvanex",
+        "type": "n8n-nodes-base.lingvaNex",
+        "path": "Lingvanex",
+        "class": "action"
+      },
+      {
+        "name": "Linkedin",
+        "type": "n8n-nodes-base.linkedIn",
+        "path": "Linkedin",
+        "class": "action"
+      },
+      {
+        "name": "Lonescale",
+        "type": "n8n-nodes-base.lonescale",
+        "path": "Lonescale",
+        "class": "action"
+      },
+      {
+        "name": "Magento",
+        "type": "n8n-nodes-base.magento2",
+        "path": "Magento",
+        "class": "action"
+      },
+      {
+        "name": "Mailcheck",
+        "type": "n8n-nodes-base.mailcheck",
+        "path": "Mailcheck",
+        "class": "action"
+      },
+      {
+        "name": "Mailchimp",
+        "type": "n8n-nodes-base.mailchimp",
+        "path": "Mailchimp",
+        "class": "action"
+      },
+      {
+        "name": "Mailerlite",
+        "type": "n8n-nodes-base.mailerLite",
+        "path": "Mailerlite",
+        "class": "action"
+      },
+      {
+        "name": "Mailgun",
+        "type": "n8n-nodes-base.mailgun",
+        "path": "Mailgun",
+        "class": "action"
+      },
+      {
+        "name": "Mailjet",
+        "type": "n8n-nodes-base.mailjet",
+        "path": "Mailjet",
+        "class": "action"
+      },
+      {
+        "name": "Mandrill",
+        "type": "n8n-nodes-base.mandrill",
+        "path": "Mandrill",
+        "class": "action"
+      },
+      {
+        "name": "Markdown",
+        "type": "n8n-nodes-base.markdown",
+        "path": "Markdown",
+        "class": "action"
+      },
+      {
+        "name": "Marketstack",
+        "type": "n8n-nodes-base.marketstack",
+        "path": "Marketstack",
+        "class": "action"
+      },
+      {
+        "name": "Matrix",
+        "type": "n8n-nodes-base.matrix",
+        "path": "Matrix",
+        "class": "action"
+      },
+      {
+        "name": "Mattermost",
+        "type": "n8n-nodes-base.mattermost",
+        "path": "Mattermost",
+        "class": "action"
+      },
+      {
+        "name": "Mautic",
+        "type": "n8n-nodes-base.mautic",
+        "path": "Mautic",
+        "class": "action"
+      },
+      {
+        "name": "Medium",
+        "type": "n8n-nodes-base.medium",
+        "path": "Medium",
+        "class": "action"
+      },
+      {
+        "name": "Messagebird",
+        "type": "n8n-nodes-base.messageBird",
+        "path": "Messagebird",
+        "class": "action"
+      },
+      {
+        "name": "Metabase",
+        "type": "n8n-nodes-base.metabase",
+        "path": "Metabase",
+        "class": "action"
+      },
+      {
+        "name": "Microsoft",
+        "type": "n8n-nodes-base.azureCosmosDb",
+        "path": "Microsoft",
+        "class": "action"
+      },
+      {
+        "name": "Mindee",
+        "type": "n8n-nodes-base.mindee",
+        "path": "Mindee",
+        "class": "action"
+      },
+      {
+        "name": "Misp",
+        "type": "n8n-nodes-base.misp",
+        "path": "Misp",
+        "class": "action"
+      },
+      {
+        "name": "Mocean",
+        "type": "n8n-nodes-base.mocean",
+        "path": "Mocean",
+        "class": "action"
+      },
+      {
+        "name": "Mondaycom",
+        "type": "n8n-nodes-base.mondayCom",
+        "path": "Mondaycom",
+        "class": "action"
+      },
+      {
+        "name": "Mongodb",
+        "type": "n8n-nodes-base.mongoDb",
+        "path": "Mongodb",
+        "class": "action"
+      },
+      {
+        "name": "Monicacrm",
+        "type": "n8n-nodes-base.monicaCrm",
+        "path": "Monicacrm",
+        "class": "action"
+      },
+      {
+        "name": "Movebinarydata",
+        "type": "n8n-nodes-base.moveBinaryData",
+        "path": "Movebinarydata",
+        "class": "action"
+      },
+      {
+        "name": "Mqtt",
+        "type": "n8n-nodes-base.mqtt",
+        "path": "Mqtt",
+        "class": "action"
+      },
+      {
+        "name": "Msg91",
+        "type": "n8n-nodes-base.msg91",
+        "path": "Msg91",
+        "class": "action"
+      },
+      {
+        "name": "Mysql",
+        "type": "n8n-nodes-base.mySql",
+        "path": "Mysql",
+        "class": "action"
+      },
+      {
+        "name": "Nasa",
+        "type": "n8n-nodes-base.nasa",
+        "path": "Nasa",
+        "class": "action"
+      },
+      {
+        "name": "Netlify",
+        "type": "n8n-nodes-base.netlify",
+        "path": "Netlify",
+        "class": "action"
+      },
+      {
+        "name": "Netscaler",
+        "type": "n8n-nodes-base.netscalerAdc",
+        "path": "Netscaler",
+        "class": "action"
+      },
+      {
+        "name": "Nextcloud",
+        "type": "n8n-nodes-base.nextCloud",
+        "path": "Nextcloud",
+        "class": "action"
+      },
+      {
+        "name": "Nocodb",
+        "type": "n8n-nodes-base.nocoDb",
+        "path": "Nocodb",
+        "class": "action"
+      },
+      {
+        "name": "Notion",
+        "type": "n8n-nodes-base.notion",
+        "path": "Notion",
+        "class": "action"
+      },
+      {
+        "name": "Npm",
+        "type": "n8n-nodes-base.npm",
+        "path": "Npm",
+        "class": "action"
+      },
+      {
+        "name": "Odoo",
+        "type": "n8n-nodes-base.odoo",
+        "path": "Odoo",
+        "class": "action"
+      },
+      {
+        "name": "Okta",
+        "type": "n8n-nodes-base.okta",
+        "path": "Okta",
+        "class": "action"
+      },
+      {
+        "name": "Onesimpleapi",
+        "type": "n8n-nodes-base.oneSimpleApi",
+        "path": "Onesimpleapi",
+        "class": "action"
+      },
+      {
+        "name": "Onfleet",
+        "type": "n8n-nodes-base.onfleet",
+        "path": "Onfleet",
+        "class": "action"
+      },
+      {
+        "name": "Openai",
+        "type": "n8n-nodes-base.openAi",
+        "path": "Openai",
+        "class": "action"
+      },
+      {
+        "name": "Openthesaurus",
+        "type": "n8n-nodes-base.openThesaurus",
+        "path": "Openthesaurus",
+        "class": "action"
+      },
+      {
+        "name": "Openweathermap",
+        "type": "n8n-nodes-base.openWeatherMap",
+        "path": "Openweathermap",
+        "class": "action"
+      },
+      {
+        "name": "Orbit",
+        "type": "n8n-nodes-base.orbit",
+        "path": "Orbit",
+        "class": "action"
+      },
+      {
+        "name": "Oura",
+        "type": "n8n-nodes-base.oura",
+        "path": "Oura",
+        "class": "action"
+      },
+      {
+        "name": "Paddle",
+        "type": "n8n-nodes-base.paddle",
+        "path": "Paddle",
+        "class": "action"
+      },
+      {
+        "name": "Pagerduty",
+        "type": "n8n-nodes-base.pagerDuty",
+        "path": "Pagerduty",
+        "class": "action"
+      },
+      {
+        "name": "Paypal",
+        "type": "n8n-nodes-base.payPal",
+        "path": "Paypal",
+        "class": "action"
+      },
+      {
+        "name": "Peekalink",
+        "type": "n8n-nodes-base.peekalink",
+        "path": "Peekalink",
+        "class": "action"
+      },
+      {
+        "name": "Phantombuster",
+        "type": "n8n-nodes-base.phantombuster",
+        "path": "Phantombuster",
+        "class": "action"
+      },
+      {
+        "name": "Philipshue",
+        "type": "n8n-nodes-base.philipsHue",
+        "path": "Philipshue",
+        "class": "action"
+      },
+      {
+        "name": "Pipedrive",
+        "type": "n8n-nodes-base.pipedrive",
+        "path": "Pipedrive",
+        "class": "action"
+      },
+      {
+        "name": "Plivo",
+        "type": "n8n-nodes-base.plivo",
+        "path": "Plivo",
+        "class": "action"
+      },
+      {
+        "name": "Postbin",
+        "type": "n8n-nodes-base.postbin",
+        "path": "Postbin",
+        "class": "action"
+      },
+      {
+        "name": "Postgres",
+        "type": "n8n-nodes-base.postgres",
+        "path": "Postgres",
+        "class": "action"
+      },
+      {
+        "name": "Posthog",
+        "type": "n8n-nodes-base.postHog",
+        "path": "Posthog",
+        "class": "action"
+      },
+      {
+        "name": "Postmark",
+        "type": "n8n-nodes-base.postmarkTrigger",
+        "path": "Postmark",
+        "class": "action"
+      },
+      {
+        "name": "Profitwell",
+        "type": "n8n-nodes-base.profitWell",
+        "path": "Profitwell",
+        "class": "action"
+      },
+      {
+        "name": "Pushbullet",
+        "type": "n8n-nodes-base.pushbullet",
+        "path": "Pushbullet",
+        "class": "action"
+      },
+      {
+        "name": "Pushcut",
+        "type": "n8n-nodes-base.pushcut",
+        "path": "Pushcut",
+        "class": "action"
+      },
+      {
+        "name": "Pushover",
+        "type": "n8n-nodes-base.pushover",
+        "path": "Pushover",
+        "class": "action"
+      },
+      {
+        "name": "Questdb",
+        "type": "n8n-nodes-base.questDb",
+        "path": "Questdb",
+        "class": "action"
+      },
+      {
+        "name": "Quickbase",
+        "type": "n8n-nodes-base.quickbase",
+        "path": "Quickbase",
+        "class": "action"
+      },
+      {
+        "name": "Quickbooks",
+        "type": "n8n-nodes-base.quickbooks",
+        "path": "Quickbooks",
+        "class": "action"
+      },
+      {
+        "name": "Quickchart",
+        "type": "n8n-nodes-base.quickChart",
+        "path": "Quickchart",
+        "class": "action"
+      },
+      {
+        "name": "Rabbitmq",
+        "type": "n8n-nodes-base.rabbitmq",
+        "path": "Rabbitmq",
+        "class": "action"
+      },
+      {
+        "name": "Raindrop",
+        "type": "n8n-nodes-base.raindrop",
+        "path": "Raindrop",
+        "class": "action"
+      },
+      {
+        "name": "Readbinaryfile",
+        "type": "n8n-nodes-base.readBinaryFile",
+        "path": "Readbinaryfile",
+        "class": "action"
+      },
+      {
+        "name": "Readbinaryfiles",
+        "type": "n8n-nodes-base.readBinaryFiles",
+        "path": "Readbinaryfiles",
+        "class": "action"
+      },
+      {
+        "name": "Readpdf",
+        "type": "n8n-nodes-base.readPDF",
+        "path": "Readpdf",
+        "class": "action"
+      },
+      {
+        "name": "Readwritefile",
+        "type": "n8n-nodes-base.readWriteFile",
+        "path": "Readwritefile",
+        "class": "action"
+      },
+      {
+        "name": "Reddit",
+        "type": "n8n-nodes-base.reddit",
+        "path": "Reddit",
+        "class": "action"
+      },
+      {
+        "name": "Redis",
+        "type": "n8n-nodes-base.redis",
+        "path": "Redis",
+        "class": "action"
+      },
+      {
+        "name": "Removeduplicates",
+        "type": "n8n-nodes-base.removeDuplicates",
+        "path": "Removeduplicates",
+        "class": "action"
+      },
+      {
+        "name": "Renamekeys",
+        "type": "n8n-nodes-base.renameKeys",
+        "path": "Renamekeys",
+        "class": "action"
+      },
+      {
+        "name": "Rocketchat",
+        "type": "n8n-nodes-base.rocketchat",
+        "path": "Rocketchat",
+        "class": "action"
+      },
+      {
+        "name": "Rssfeedread",
+        "type": "n8n-nodes-base.rssFeedRead",
+        "path": "Rssfeedread",
+        "class": "action"
+      },
+      {
+        "name": "Rundeck",
+        "type": "n8n-nodes-base.rundeck",
+        "path": "Rundeck",
+        "class": "action"
+      },
+      {
+        "name": "S3",
+        "type": "n8n-nodes-base.s3",
+        "path": "S3",
+        "class": "action"
+      },
+      {
+        "name": "Salesforce",
+        "type": "n8n-nodes-base.salesforce",
+        "path": "Salesforce",
+        "class": "action"
+      },
+      {
+        "name": "Salesmate",
+        "type": "n8n-nodes-base.salesmate",
+        "path": "Salesmate",
+        "class": "action"
+      },
+      {
+        "name": "Seatable",
+        "type": "n8n-nodes-base.seaTable",
+        "path": "Seatable",
+        "class": "action"
+      },
+      {
+        "name": "Securityscorecard",
+        "type": "n8n-nodes-base.securityScorecard",
+        "path": "Securityscorecard",
+        "class": "action"
+      },
+      {
+        "name": "Segment",
+        "type": "n8n-nodes-base.segment",
+        "path": "Segment",
+        "class": "action"
+      },
+      {
+        "name": "Sendgrid",
+        "type": "n8n-nodes-base.sendGrid",
+        "path": "Sendgrid",
+        "class": "action"
+      },
+      {
+        "name": "Sendy",
+        "type": "n8n-nodes-base.sendy",
+        "path": "Sendy",
+        "class": "action"
+      },
+      {
+        "name": "Sentryio",
+        "type": "n8n-nodes-base.sentryIo",
+        "path": "Sentryio",
+        "class": "action"
+      },
+      {
+        "name": "Servicenow",
+        "type": "n8n-nodes-base.serviceNow",
+        "path": "Servicenow",
+        "class": "action"
+      },
+      {
+        "name": "Set",
+        "type": "n8n-nodes-base.set",
+        "path": "Set",
+        "class": "action"
+      },
+      {
+        "name": "Shopify",
+        "type": "n8n-nodes-base.shopify",
+        "path": "Shopify",
+        "class": "action"
+      },
+      {
+        "name": "Signl4",
+        "type": "n8n-nodes-base.signl4",
+        "path": "Signl4",
+        "class": "action"
+      },
+      {
+        "name": "Simulate",
+        "type": "n8n-nodes-base.simulate",
+        "path": "Simulate",
+        "class": "action"
+      },
+      {
+        "name": "Slack",
+        "type": "n8n-nodes-base.slack",
+        "path": "Slack",
+        "class": "action"
+      },
+      {
+        "name": "Sms77",
+        "type": "n8n-nodes-base.sms77",
+        "path": "Sms77",
+        "class": "action"
+      },
+      {
+        "name": "Snowflake",
+        "type": "n8n-nodes-base.snowflake",
+        "path": "Snowflake",
+        "class": "action"
+      },
+      {
+        "name": "Sort",
+        "type": "n8n-nodes-base.sort",
+        "path": "Sort",
+        "class": "action"
+      },
+      {
+        "name": "Splitout",
+        "type": "n8n-nodes-base.splitOut",
+        "path": "Splitout",
+        "class": "action"
+      },
+      {
+        "name": "Splunk",
+        "type": "n8n-nodes-base.splunk",
+        "path": "Splunk",
+        "class": "action"
+      },
+      {
+        "name": "Spontit",
+        "type": "n8n-nodes-base.spontit",
+        "path": "Spontit",
+        "class": "action"
+      },
+      {
+        "name": "Spotify",
+        "type": "n8n-nodes-base.spotify",
+        "path": "Spotify",
+        "class": "action"
+      },
+      {
+        "name": "Spreadsheetfile",
+        "type": "n8n-nodes-base.spreadsheetFile",
+        "path": "Spreadsheetfile",
+        "class": "action"
+      },
+      {
+        "name": "Ssh",
+        "type": "n8n-nodes-base.ssh",
+        "path": "Ssh",
+        "class": "action"
+      },
+      {
+        "name": "Stackby",
+        "type": "n8n-nodes-base.stackby",
+        "path": "Stackby",
+        "class": "action"
+      },
+      {
+        "name": "Start",
+        "type": "n8n-nodes-base.start",
+        "path": "Start",
+        "class": "action"
+      },
+      {
+        "name": "Storyblok",
+        "type": "n8n-nodes-base.storyblok",
+        "path": "Storyblok",
+        "class": "action"
+      },
+      {
+        "name": "Strapi",
+        "type": "n8n-nodes-base.strapi",
+        "path": "Strapi",
+        "class": "action"
+      },
+      {
+        "name": "Strava",
+        "type": "n8n-nodes-base.strava",
+        "path": "Strava",
+        "class": "action"
+      },
+      {
+        "name": "Stripe",
+        "type": "n8n-nodes-base.stripe",
+        "path": "Stripe",
+        "class": "action"
+      },
+      {
+        "name": "Summarize",
+        "type": "n8n-nodes-base.summarize",
+        "path": "Summarize",
+        "class": "action"
+      },
+      {
+        "name": "Supabase",
+        "type": "n8n-nodes-base.supabase",
+        "path": "Supabase",
+        "class": "action"
+      },
+      {
+        "name": "SurveyMonkey",
+        "type": "n8n-nodes-base.surveyMonkeyTrigger",
+        "path": "SurveyMonkey",
+        "class": "action"
+      },
+      {
+        "name": "Syncromsp",
+        "type": "n8n-nodes-base.syncroMsp",
+        "path": "Syncromsp",
+        "class": "action"
+      },
+      {
+        "name": "Taiga",
+        "type": "n8n-nodes-base.taiga",
+        "path": "Taiga",
+        "class": "action"
+      },
+      {
+        "name": "Tapfiliate",
+        "type": "n8n-nodes-base.tapfiliate",
+        "path": "Tapfiliate",
+        "class": "action"
+      },
+      {
+        "name": "Telegram",
+        "type": "n8n-nodes-base.telegram",
+        "path": "Telegram",
+        "class": "action"
+      },
+      {
+        "name": "Thehive",
+        "type": "n8n-nodes-base.theHive",
+        "path": "Thehive",
+        "class": "action"
+      },
+      {
+        "name": "Thehiveproject",
+        "type": "n8n-nodes-base.theHiveProject",
+        "path": "Thehiveproject",
+        "class": "action"
+      },
+      {
+        "name": "Timescaledb",
+        "type": "n8n-nodes-base.timescaleDb",
+        "path": "Timescaledb",
+        "class": "action"
+      },
+      {
+        "name": "Todoist",
+        "type": "n8n-nodes-base.todoist",
+        "path": "Todoist",
+        "class": "action"
+      },
+      {
+        "name": "Toggl",
+        "type": "n8n-nodes-base.togglTrigger",
+        "path": "Toggl",
+        "class": "action"
+      },
+      {
+        "name": "Totp",
+        "type": "n8n-nodes-base.totp",
+        "path": "Totp",
+        "class": "action"
+      },
+      {
+        "name": "Transform",
+        "type": "n8n-nodes-base.aggregate",
+        "path": "Transform",
+        "class": "action"
+      },
+      {
+        "name": "Travisci",
+        "type": "n8n-nodes-base.travisCi",
+        "path": "Travisci",
+        "class": "action"
+      },
+      {
+        "name": "Trello",
+        "type": "n8n-nodes-base.trello",
+        "path": "Trello",
+        "class": "action"
+      },
+      {
+        "name": "Twake",
+        "type": "n8n-nodes-base.twake",
+        "path": "Twake",
+        "class": "action"
+      },
+      {
+        "name": "Twilio",
+        "type": "n8n-nodes-base.twilio",
+        "path": "Twilio",
+        "class": "action"
+      },
+      {
+        "name": "Twist",
+        "type": "n8n-nodes-base.twist",
+        "path": "Twist",
+        "class": "action"
+      },
+      {
+        "name": "Twitter",
+        "type": "n8n-nodes-base.twitter",
+        "path": "Twitter",
+        "class": "action"
+      },
+      {
+        "name": "Typeform",
+        "type": "n8n-nodes-base.typeformTrigger",
+        "path": "Typeform",
+        "class": "action"
+      },
+      {
+        "name": "Unleashedsoftware",
+        "type": "n8n-nodes-base.unleashedSoftware",
+        "path": "Unleashedsoftware",
+        "class": "action"
+      },
+      {
+        "name": "Uplead",
+        "type": "n8n-nodes-base.uplead",
+        "path": "Uplead",
+        "class": "action"
+      },
+      {
+        "name": "Uproc",
+        "type": "n8n-nodes-base.uproc",
+        "path": "Uproc",
+        "class": "action"
+      },
+      {
+        "name": "Uptimerobot",
+        "type": "n8n-nodes-base.uptimeRobot",
+        "path": "Uptimerobot",
+        "class": "action"
+      },
+      {
+        "name": "Urlscanio",
+        "type": "n8n-nodes-base.urlScanIo",
+        "path": "Urlscanio",
+        "class": "action"
+      },
+      {
+        "name": "Venafi",
+        "type": "n8n-nodes-base.venafiTlsProtectDatacenter",
+        "path": "Venafi",
+        "class": "action"
+      },
+      {
+        "name": "Vero",
+        "type": "n8n-nodes-base.vero",
+        "path": "Vero",
+        "class": "action"
+      },
+      {
+        "name": "Vonage",
+        "type": "n8n-nodes-base.vonage",
+        "path": "Vonage",
+        "class": "action"
+      },
+      {
+        "name": "Webflow",
+        "type": "n8n-nodes-base.webflow",
+        "path": "Webflow",
+        "class": "action"
+      },
+      {
+        "name": "Wekan",
+        "type": "n8n-nodes-base.wekan",
+        "path": "Wekan",
+        "class": "action"
+      },
+      {
+        "name": "Whatsapp",
+        "type": "n8n-nodes-base.whatsApp",
+        "path": "Whatsapp",
+        "class": "action"
+      },
+      {
+        "name": "Wise",
+        "type": "n8n-nodes-base.wise",
+        "path": "Wise",
+        "class": "action"
+      },
+      {
+        "name": "Woocommerce",
+        "type": "n8n-nodes-base.wooCommerce",
+        "path": "Woocommerce",
+        "class": "action"
+      },
+      {
+        "name": "Wordpress",
+        "type": "n8n-nodes-base.wordpress",
+        "path": "Wordpress",
+        "class": "action"
+      },
+      {
+        "name": "Workable",
+        "type": "n8n-nodes-base.workableTrigger",
+        "path": "Workable",
+        "class": "action"
+      },
+      {
+        "name": "Workflowtrigger",
+        "type": "n8n-nodes-base.WorkflowTrigger",
+        "path": "Workflowtrigger",
+        "class": "action"
+      },
+      {
+        "name": "Writebinaryfile",
+        "type": "n8n-nodes-base.writeBinaryFile",
+        "path": "Writebinaryfile",
+        "class": "action"
+      },
+      {
+        "name": "Wufoo",
+        "type": "n8n-nodes-base.wufooTrigger",
+        "path": "Wufoo",
+        "class": "action"
+      },
+      {
+        "name": "Xero",
+        "type": "n8n-nodes-base.xero",
+        "path": "Xero",
+        "class": "action"
+      },
+      {
+        "name": "Xml",
+        "type": "n8n-nodes-base.xml",
+        "path": "Xml",
+        "class": "action"
+      },
+      {
+        "name": "Yourls",
+        "type": "n8n-nodes-base.yourls",
+        "path": "Yourls",
+        "class": "action"
+      },
+      {
+        "name": "Youtube",
+        "type": "n8n-nodes-base.youTube",
+        "path": "Youtube",
+        "class": "action"
+      },
+      {
+        "name": "Zammad",
+        "type": "n8n-nodes-base.zammad",
+        "path": "Zammad",
+        "class": "action"
+      },
+      {
+        "name": "Zendesk",
+        "type": "n8n-nodes-base.zendesk",
+        "path": "Zendesk",
+        "class": "action"
+      },
+      {
+        "name": "Zoho",
+        "type": "n8n-nodes-base.zohoCrm",
+        "path": "Zoho",
+        "class": "action"
+      },
+      {
+        "name": "Zoom",
+        "type": "n8n-nodes-base.zoom",
+        "path": "Zoom",
+        "class": "action"
+      },
+      {
+        "name": "Zulip",
+        "type": "n8n-nodes-base.zulip",
+        "path": "Zulip",
+        "class": "action"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "node_dir": "N8nTrainingCustomerDatastore",
+      "error": "找不到有效的 .node.json 檔案或節點類型"
+    },
+    {
+      "node_dir": "N8nTrainingCustomerMessenger",
+      "error": "找不到有效的 .node.json 檔案或節點類型"
+    }
+  ],
+  "stats": {
+    "class_counts": {
+      "core": 12,
+      "trigger": 9,
+      "flow": 7,
+      "action": 290
+    },
+    "total_nodes": 318,
+    "error_count": 2
+  }
+}

@@ -1,0 +1,3786 @@
+{
+  "categories": {
+    "Sales": [
+      {
+        "name": "Actionnetwork",
+        "type": "n8n-nodes-base.actionNetwork",
+        "path": "Actionnetwork",
+        "categories": [
+          "Sales",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Affinity",
+        "type": "n8n-nodes-base.affinity",
+        "path": "Affinity",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Agilecrm",
+        "type": "n8n-nodes-base.agileCrm",
+        "path": "Agilecrm",
+        "categories": [
+          "Marketing",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Brandfetch",
+        "type": "n8n-nodes-base.Brandfetch",
+        "path": "Brandfetch",
+        "categories": [
+          "Utility",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Clearbit",
+        "type": "n8n-nodes-base.clearbit",
+        "path": "Clearbit",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Convertkit",
+        "type": "n8n-nodes-base.convertKit",
+        "path": "Convertkit",
+        "categories": [
+          "Marketing",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Copper",
+        "type": "n8n-nodes-base.copper",
+        "path": "Copper",
+        "categories": [
+          "Marketing",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Drift",
+        "type": "n8n-nodes-base.drift",
+        "path": "Drift",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Dropcontact",
+        "type": "n8n-nodes-base.dropcontact",
+        "path": "Dropcontact",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Eventbrite",
+        "type": "n8n-nodes-base.eventbriteTrigger",
+        "path": "Eventbrite",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Freshworkscrm",
+        "type": "n8n-nodes-base.freshworksCrm",
+        "path": "Freshworkscrm",
+        "categories": [
+          "Marketing",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Gumroad",
+        "type": "n8n-nodes-base.gumroadTrigger",
+        "path": "Gumroad",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Highlevel",
+        "type": "n8n-nodes-base.highLevel",
+        "path": "Highlevel",
+        "categories": [
+          "Marketing",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Hubspot",
+        "type": "n8n-nodes-base.hubspot",
+        "path": "Hubspot",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Hunter",
+        "type": "n8n-nodes-base.hunter",
+        "path": "Hunter",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Intercom",
+        "type": "n8n-nodes-base.intercom",
+        "path": "Intercom",
+        "categories": [
+          "Communication",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Keap",
+        "type": "n8n-nodes-base.keap",
+        "path": "Keap",
+        "categories": [
+          "Sales",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Lonescale",
+        "type": "n8n-nodes-base.lonescale",
+        "path": "Lonescale",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Magento",
+        "type": "n8n-nodes-base.magento2",
+        "path": "Magento",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Paddle",
+        "type": "n8n-nodes-base.paddle",
+        "path": "Paddle",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Paypal",
+        "type": "n8n-nodes-base.payPal",
+        "path": "Paypal",
+        "categories": [
+          "Finance & Accounting",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Phantombuster",
+        "type": "n8n-nodes-base.phantombuster",
+        "path": "Phantombuster",
+        "categories": [
+          "Sales",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Pipedrive",
+        "type": "n8n-nodes-base.pipedrive",
+        "path": "Pipedrive",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Salesforce",
+        "type": "n8n-nodes-base.salesforce",
+        "path": "Salesforce",
+        "categories": [
+          "Sales",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Salesmate",
+        "type": "n8n-nodes-base.salesmate",
+        "path": "Salesmate",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Shopify",
+        "type": "n8n-nodes-base.shopify",
+        "path": "Shopify",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Stripe",
+        "type": "n8n-nodes-base.stripe",
+        "path": "Stripe",
+        "categories": [
+          "Finance & Accounting",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Tapfiliate",
+        "type": "n8n-nodes-base.tapfiliate",
+        "path": "Tapfiliate",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Unleashedsoftware",
+        "type": "n8n-nodes-base.unleashedSoftware",
+        "path": "Unleashedsoftware",
+        "categories": [
+          "Sales",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Uplead",
+        "type": "n8n-nodes-base.uplead",
+        "path": "Uplead",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Woocommerce",
+        "type": "n8n-nodes-base.wooCommerce",
+        "path": "Woocommerce",
+        "categories": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Zoho",
+        "type": "n8n-nodes-base.zohoCrm",
+        "path": "Zoho",
+        "categories": [
+          "Communication",
+          "Sales"
+        ]
+      }
+    ],
+    "Finance & Accounting": [
+      {
+        "name": "Chargebee",
+        "type": "n8n-nodes-base.chargebee",
+        "path": "Chargebee",
+        "categories": [
+          "Finance & Accounting"
+        ]
+      },
+      {
+        "name": "Coingecko",
+        "type": "n8n-nodes-base.coinGecko",
+        "path": "Coingecko",
+        "categories": [
+          "Productivity",
+          "Finance & Accounting"
+        ]
+      },
+      {
+        "name": "Erpnext",
+        "type": "n8n-nodes-base.erpNext",
+        "path": "Erpnext",
+        "categories": [
+          "Finance & Accounting",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Invoiceninja",
+        "type": "n8n-nodes-base.invoiceNinja",
+        "path": "Invoiceninja",
+        "categories": [
+          "Finance & Accounting"
+        ]
+      },
+      {
+        "name": "Marketstack",
+        "type": "n8n-nodes-base.marketstack",
+        "path": "Marketstack",
+        "categories": [
+          "Analytics",
+          "Finance & Accounting"
+        ]
+      },
+      {
+        "name": "Paypal",
+        "type": "n8n-nodes-base.payPal",
+        "path": "Paypal",
+        "categories": [
+          "Finance & Accounting",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Quickbooks",
+        "type": "n8n-nodes-base.quickbooks",
+        "path": "Quickbooks",
+        "categories": [
+          "Finance & Accounting"
+        ]
+      },
+      {
+        "name": "Stripe",
+        "type": "n8n-nodes-base.stripe",
+        "path": "Stripe",
+        "categories": [
+          "Finance & Accounting",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Wise",
+        "type": "n8n-nodes-base.wise",
+        "path": "Wise",
+        "categories": [
+          "Finance & Accounting"
+        ]
+      },
+      {
+        "name": "Xero",
+        "type": "n8n-nodes-base.xero",
+        "path": "Xero",
+        "categories": [
+          "Finance & Accounting"
+        ]
+      }
+    ],
+    "Analytics": [
+      {
+        "name": "Cortex",
+        "type": "n8n-nodes-base.cortex",
+        "path": "Cortex",
+        "categories": [
+          "Development",
+          "Analytics"
+        ]
+      },
+      {
+        "name": "Google",
+        "type": "n8n-nodes-base.googleAds",
+        "path": "Google",
+        "categories": [
+          "Analytics"
+        ]
+      },
+      {
+        "name": "Grafana",
+        "type": "n8n-nodes-base.grafana",
+        "path": "Grafana",
+        "categories": [
+          "Development",
+          "Analytics"
+        ]
+      },
+      {
+        "name": "Humanticai",
+        "type": "n8n-nodes-base.humanticAi",
+        "path": "Humanticai",
+        "categories": [
+          "Analytics"
+        ]
+      },
+      {
+        "name": "Marketstack",
+        "type": "n8n-nodes-base.marketstack",
+        "path": "Marketstack",
+        "categories": [
+          "Analytics",
+          "Finance & Accounting"
+        ]
+      },
+      {
+        "name": "Orbit",
+        "type": "n8n-nodes-base.orbit",
+        "path": "Orbit",
+        "categories": [
+          "Analytics"
+        ]
+      },
+      {
+        "name": "Posthog",
+        "type": "n8n-nodes-base.postHog",
+        "path": "Posthog",
+        "categories": [
+          "Analytics",
+          "Development"
+        ]
+      },
+      {
+        "name": "Profitwell",
+        "type": "n8n-nodes-base.profitWell",
+        "path": "Profitwell",
+        "categories": [
+          "Analytics"
+        ]
+      },
+      {
+        "name": "Securityscorecard",
+        "type": "n8n-nodes-base.securityScorecard",
+        "path": "Securityscorecard",
+        "categories": [
+          "Analytics"
+        ]
+      },
+      {
+        "name": "Segment",
+        "type": "n8n-nodes-base.segment",
+        "path": "Segment",
+        "categories": [
+          "Analytics",
+          "Development"
+        ]
+      }
+    ],
+    "Productivity": [
+      {
+        "name": "AcuityScheduling",
+        "type": "n8n-nodes-base.acuitySchedulingTrigger",
+        "path": "AcuityScheduling",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Airtop",
+        "type": "n8n-nodes-base.airtop",
+        "path": "Airtop",
+        "categories": [
+          "Productivity",
+          "Development"
+        ]
+      },
+      {
+        "name": "Asana",
+        "type": "n8n-nodes-base.asana",
+        "path": "Asana",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Beeminder",
+        "type": "n8n-nodes-base.beeminder",
+        "path": "Beeminder",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Bitbucket",
+        "type": "n8n-nodes-base.bitbucketTrigger",
+        "path": "Bitbucket",
+        "categories": [
+          "Development",
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Cal",
+        "type": "n8n-nodes-base.calTrigger",
+        "path": "Cal",
+        "categories": [
+          "Productivity",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Calendly",
+        "type": "n8n-nodes-base.calendlyTrigger",
+        "path": "Calendly",
+        "categories": [
+          "Productivity",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Clickup",
+        "type": "n8n-nodes-base.clickUp",
+        "path": "Clickup",
+        "categories": [
+          "Productivity",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Clockify",
+        "type": "n8n-nodes-base.clockify",
+        "path": "Clockify",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Coda",
+        "type": "n8n-nodes-base.coda",
+        "path": "Coda",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Coingecko",
+        "type": "n8n-nodes-base.coinGecko",
+        "path": "Coingecko",
+        "categories": [
+          "Productivity",
+          "Finance & Accounting"
+        ]
+      },
+      {
+        "name": "Crowddev",
+        "type": "n8n-nodes-base.crowdDev",
+        "path": "Crowddev",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Flow",
+        "type": "n8n-nodes-base.flow",
+        "path": "Flow",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Freshservice",
+        "type": "n8n-nodes-base.freshservice",
+        "path": "Freshservice",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Harvest",
+        "type": "n8n-nodes-base.harvest",
+        "path": "Harvest",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Ical",
+        "type": "n8n-nodes-base.iCal",
+        "path": "Ical",
+        "categories": [
+          "Core Nodes",
+          "Productivity"
+        ]
+      },
+      {
+        "name": "ICalendar",
+        "type": "n8n-nodes-base.iCal",
+        "path": "ICalendar",
+        "categories": [
+          "Core Nodes",
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Jira",
+        "type": "n8n-nodes-base.jira",
+        "path": "Jira",
+        "categories": [
+          "Development",
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Kitemaker",
+        "type": "n8n-nodes-base.kitemaker",
+        "path": "Kitemaker",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Linear",
+        "type": "n8n-nodes-base.linear",
+        "path": "Linear",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Mondaycom",
+        "type": "n8n-nodes-base.mondayCom",
+        "path": "Mondaycom",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Notion",
+        "type": "n8n-nodes-base.notion",
+        "path": "Notion",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Oura",
+        "type": "n8n-nodes-base.oura",
+        "path": "Oura",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Pushcut",
+        "type": "n8n-nodes-base.pushcut",
+        "path": "Pushcut",
+        "categories": [
+          "Communication",
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Raindrop",
+        "type": "n8n-nodes-base.raindrop",
+        "path": "Raindrop",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Servicenow",
+        "type": "n8n-nodes-base.serviceNow",
+        "path": "Servicenow",
+        "categories": [
+          "Productivity",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Strava",
+        "type": "n8n-nodes-base.strava",
+        "path": "Strava",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Syncromsp",
+        "type": "n8n-nodes-base.syncroMsp",
+        "path": "Syncromsp",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Taiga",
+        "type": "n8n-nodes-base.taiga",
+        "path": "Taiga",
+        "categories": [
+          "Development",
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Todoist",
+        "type": "n8n-nodes-base.todoist",
+        "path": "Todoist",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Toggl",
+        "type": "n8n-nodes-base.togglTrigger",
+        "path": "Toggl",
+        "categories": [
+          "Productivity",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Trello",
+        "type": "n8n-nodes-base.trello",
+        "path": "Trello",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Twake",
+        "type": "n8n-nodes-base.twake",
+        "path": "Twake",
+        "categories": [
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Wekan",
+        "type": "n8n-nodes-base.wekan",
+        "path": "Wekan",
+        "categories": [
+          "Productivity"
+        ]
+      }
+    ],
+    "Evaluation": [
+      {
+        "name": "Evaluationmetrics",
+        "type": "n8n-nodes-base.evaluationMetrics",
+        "path": "Evaluationmetrics",
+        "categories": [
+          "Evaluation",
+          "Core Nodes"
+        ]
+      }
+    ],
+    "Data & Storage": [
+      {
+        "name": "Adalo",
+        "type": "n8n-nodes-base.adalo",
+        "path": "Adalo",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Airtable",
+        "type": "n8n-nodes-base.airtable",
+        "path": "Airtable",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Azurecosmosdb",
+        "type": "n8n-nodes-base.azureCosmosDb",
+        "path": "Azurecosmosdb",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Baserow",
+        "type": "n8n-nodes-base.baserow",
+        "path": "Baserow",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Bitwarden",
+        "type": "n8n-nodes-base.bitwarden",
+        "path": "Bitwarden",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Box",
+        "type": "n8n-nodes-base.box",
+        "path": "Box",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Compression",
+        "type": "n8n-nodes-base.compression",
+        "path": "Compression",
+        "categories": [
+          "Core Nodes",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Cratedb",
+        "type": "n8n-nodes-base.crateDb",
+        "path": "Cratedb",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Dropbox",
+        "type": "n8n-nodes-base.dropbox",
+        "path": "Dropbox",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Elastic",
+        "type": "n8n-nodes-base.elasticsearch",
+        "path": "Elastic",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Elasticsearch",
+        "type": "n8n-nodes-base.elasticsearch",
+        "path": "Elasticsearch",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Erpnext",
+        "type": "n8n-nodes-base.erpNext",
+        "path": "Erpnext",
+        "categories": [
+          "Finance & Accounting",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Filemaker",
+        "type": "n8n-nodes-base.filemaker",
+        "path": "Filemaker",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Ftp",
+        "type": "n8n-nodes-base.ftp",
+        "path": "Ftp",
+        "categories": [
+          "Core Nodes",
+          "Data & Storage",
+          "Development",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Graphql",
+        "type": "n8n-nodes-base.graphql",
+        "path": "Graphql",
+        "categories": [
+          "Data & Storage",
+          "Development"
+        ]
+      },
+      {
+        "name": "Grist",
+        "type": "n8n-nodes-base.grist",
+        "path": "Grist",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Kobotoolbox",
+        "type": "n8n-nodes-base.koBoToolbox",
+        "path": "Kobotoolbox",
+        "categories": [
+          "Communication",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Metabase",
+        "type": "n8n-nodes-base.metabase",
+        "path": "Metabase",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Microsoft",
+        "type": "n8n-nodes-base.azureCosmosDb",
+        "path": "Microsoft",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Mongodb",
+        "type": "n8n-nodes-base.mongoDb",
+        "path": "Mongodb",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Mysql",
+        "type": "n8n-nodes-base.mySql",
+        "path": "Mysql",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Nextcloud",
+        "type": "n8n-nodes-base.nextCloud",
+        "path": "Nextcloud",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Nocodb",
+        "type": "n8n-nodes-base.nocoDb",
+        "path": "Nocodb",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Odoo",
+        "type": "n8n-nodes-base.odoo",
+        "path": "Odoo",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Postbin",
+        "type": "n8n-nodes-base.postbin",
+        "path": "Postbin",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Postgres",
+        "type": "n8n-nodes-base.postgres",
+        "path": "Postgres",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Questdb",
+        "type": "n8n-nodes-base.questDb",
+        "path": "Questdb",
+        "categories": [
+          "Data & Storage",
+          "Development"
+        ]
+      },
+      {
+        "name": "Quickbase",
+        "type": "n8n-nodes-base.quickbase",
+        "path": "Quickbase",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Redis",
+        "type": "n8n-nodes-base.redis",
+        "path": "Redis",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "S3",
+        "type": "n8n-nodes-base.s3",
+        "path": "S3",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Seatable",
+        "type": "n8n-nodes-base.seaTable",
+        "path": "Seatable",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Snowflake",
+        "type": "n8n-nodes-base.snowflake",
+        "path": "Snowflake",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Spreadsheetfile",
+        "type": "n8n-nodes-base.spreadsheetFile",
+        "path": "Spreadsheetfile",
+        "categories": [
+          "Data & Storage",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Stackby",
+        "type": "n8n-nodes-base.stackby",
+        "path": "Stackby",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Storyblok",
+        "type": "n8n-nodes-base.storyblok",
+        "path": "Storyblok",
+        "categories": [
+          "Data & Storage",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Strapi",
+        "type": "n8n-nodes-base.strapi",
+        "path": "Strapi",
+        "categories": [
+          "Data & Storage",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Supabase",
+        "type": "n8n-nodes-base.supabase",
+        "path": "Supabase",
+        "categories": [
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Timescaledb",
+        "type": "n8n-nodes-base.timescaleDb",
+        "path": "Timescaledb",
+        "categories": [
+          "Data & Storage",
+          "Development"
+        ]
+      },
+      {
+        "name": "Unleashedsoftware",
+        "type": "n8n-nodes-base.unleashedSoftware",
+        "path": "Unleashedsoftware",
+        "categories": [
+          "Sales",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Uproc",
+        "type": "n8n-nodes-base.uproc",
+        "path": "Uproc",
+        "categories": [
+          "Data & Storage"
+        ]
+      }
+    ],
+    "Miscellaneous ": [],
+    "Core Nodes": [
+      {
+        "name": "Aggregate",
+        "type": "n8n-nodes-base.aggregate",
+        "path": "Aggregate",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Aitransform",
+        "type": "n8n-nodes-base.aiTransform",
+        "path": "Aitransform",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Code",
+        "type": "n8n-nodes-base.code",
+        "path": "Code",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Comparedatasets",
+        "type": "n8n-nodes-base.compareDatasets",
+        "path": "Comparedatasets",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Compression",
+        "type": "n8n-nodes-base.compression",
+        "path": "Compression",
+        "categories": [
+          "Core Nodes",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Converttofile",
+        "type": "n8n-nodes-base.convertToFile",
+        "path": "Converttofile",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Cron",
+        "type": "n8n-nodes-base.cron",
+        "path": "Cron",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Crypto",
+        "type": "n8n-nodes-base.crypto",
+        "path": "Crypto",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Datetime",
+        "type": "n8n-nodes-base.dateTime",
+        "path": "Datetime",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "E2eTest",
+        "type": "n8n-nodes-base.e2eTest",
+        "path": "E2eTest",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Editimage",
+        "type": "n8n-nodes-base.editImage",
+        "path": "Editimage",
+        "categories": [
+          "Marketing",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Emailreadimap",
+        "type": "n8n-nodes-base.emailReadImap",
+        "path": "Emailreadimap",
+        "categories": [
+          "Communication",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Emailsend",
+        "type": "n8n-nodes-base.emailSend",
+        "path": "Emailsend",
+        "categories": [
+          "Communication",
+          "HITL",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Errortrigger",
+        "type": "n8n-nodes-base.errorTrigger",
+        "path": "Errortrigger",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Evaluationmetrics",
+        "type": "n8n-nodes-base.evaluationMetrics",
+        "path": "Evaluationmetrics",
+        "categories": [
+          "Evaluation",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Executecommand",
+        "type": "n8n-nodes-base.executeCommand",
+        "path": "Executecommand",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Executeworkflow",
+        "type": "n8n-nodes-base.executeWorkflow",
+        "path": "Executeworkflow",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Executeworkflowtrigger",
+        "type": "n8n-nodes-base.executeWorkflowTrigger",
+        "path": "Executeworkflowtrigger",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Executiondata",
+        "type": "n8n-nodes-base.executionData",
+        "path": "Executiondata",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Extractfromfile",
+        "type": "n8n-nodes-base.extractFromFile",
+        "path": "Extractfromfile",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Files",
+        "type": "n8n-nodes-base.convertToFile",
+        "path": "Files",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Filter",
+        "type": "n8n-nodes-base.filter",
+        "path": "Filter",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Form",
+        "type": "n8n-nodes-base.form",
+        "path": "Form",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Ftp",
+        "type": "n8n-nodes-base.ftp",
+        "path": "Ftp",
+        "categories": [
+          "Core Nodes",
+          "Data & Storage",
+          "Development",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Function",
+        "type": "n8n-nodes-base.function",
+        "path": "Function",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Functionitem",
+        "type": "n8n-nodes-base.functionItem",
+        "path": "Functionitem",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Git",
+        "type": "n8n-nodes-base.git",
+        "path": "Git",
+        "categories": [
+          "Core Nodes",
+          "Development"
+        ]
+      },
+      {
+        "name": "Html",
+        "type": "n8n-nodes-base.html",
+        "path": "Html",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Htmlextract",
+        "type": "n8n-nodes-base.htmlExtract",
+        "path": "Htmlextract",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Httprequest",
+        "type": "n8n-nodes-base.httpRequest",
+        "path": "Httprequest",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Ical",
+        "type": "n8n-nodes-base.iCal",
+        "path": "Ical",
+        "categories": [
+          "Core Nodes",
+          "Productivity"
+        ]
+      },
+      {
+        "name": "ICalendar",
+        "type": "n8n-nodes-base.iCal",
+        "path": "ICalendar",
+        "categories": [
+          "Core Nodes",
+          "Productivity"
+        ]
+      },
+      {
+        "name": "If",
+        "type": "n8n-nodes-base.if",
+        "path": "If",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Interval",
+        "type": "n8n-nodes-base.interval",
+        "path": "Interval",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Itemlists",
+        "type": "n8n-nodes-base.itemLists",
+        "path": "Itemlists",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Limit",
+        "type": "n8n-nodes-base.limit",
+        "path": "Limit",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Localfiletrigger",
+        "type": "n8n-nodes-base.localFileTrigger",
+        "path": "Localfiletrigger",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Manualtrigger",
+        "type": "n8n-nodes-base.manualTrigger",
+        "path": "Manualtrigger",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Markdown",
+        "type": "n8n-nodes-base.markdown",
+        "path": "Markdown",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Merge",
+        "type": "n8n-nodes-base.merge",
+        "path": "Merge",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Movebinarydata",
+        "type": "n8n-nodes-base.moveBinaryData",
+        "path": "Movebinarydata",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "N8N",
+        "type": "n8n-nodes-base.n8n",
+        "path": "N8N",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "N8Ntrigger",
+        "type": "n8n-nodes-base.n8nTrigger",
+        "path": "N8Ntrigger",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Noop",
+        "type": "n8n-nodes-base.noOp",
+        "path": "Noop",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Readbinaryfile",
+        "type": "n8n-nodes-base.readBinaryFile",
+        "path": "Readbinaryfile",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Readbinaryfiles",
+        "type": "n8n-nodes-base.readBinaryFiles",
+        "path": "Readbinaryfiles",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Readpdf",
+        "type": "n8n-nodes-base.readPDF",
+        "path": "Readpdf",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Readwritefile",
+        "type": "n8n-nodes-base.readWriteFile",
+        "path": "Readwritefile",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Removeduplicates",
+        "type": "n8n-nodes-base.removeDuplicates",
+        "path": "Removeduplicates",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Renamekeys",
+        "type": "n8n-nodes-base.renameKeys",
+        "path": "Renamekeys",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Respondtowebhook",
+        "type": "n8n-nodes-base.respondToWebhook",
+        "path": "Respondtowebhook",
+        "categories": [
+          "Core Nodes",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Rssfeedread",
+        "type": "n8n-nodes-base.rssFeedRead",
+        "path": "Rssfeedread",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Schedule",
+        "type": "n8n-nodes-base.scheduleTrigger",
+        "path": "Schedule",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Set",
+        "type": "n8n-nodes-base.set",
+        "path": "Set",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Simulate",
+        "type": "n8n-nodes-base.simulate",
+        "path": "Simulate",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Sort",
+        "type": "n8n-nodes-base.sort",
+        "path": "Sort",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Splitinbatches",
+        "type": "n8n-nodes-base.splitInBatches",
+        "path": "Splitinbatches",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Splitout",
+        "type": "n8n-nodes-base.splitOut",
+        "path": "Splitout",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Spreadsheetfile",
+        "type": "n8n-nodes-base.spreadsheetFile",
+        "path": "Spreadsheetfile",
+        "categories": [
+          "Data & Storage",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Ssetrigger",
+        "type": "n8n-nodes-base.sseTrigger",
+        "path": "Ssetrigger",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Ssh",
+        "type": "n8n-nodes-base.ssh",
+        "path": "Ssh",
+        "categories": [
+          "Core Nodes",
+          "Development"
+        ]
+      },
+      {
+        "name": "Start",
+        "type": "n8n-nodes-base.start",
+        "path": "Start",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Stickynote",
+        "type": "n8n-nodes-base.stickyNote",
+        "path": "Stickynote",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Stopanderror",
+        "type": "n8n-nodes-base.stopAndError",
+        "path": "Stopanderror",
+        "categories": [
+          "Core Nodes",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Summarize",
+        "type": "n8n-nodes-base.summarize",
+        "path": "Summarize",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Switch",
+        "type": "n8n-nodes-base.switch",
+        "path": "Switch",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Totp",
+        "type": "n8n-nodes-base.totp",
+        "path": "Totp",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Transform",
+        "type": "n8n-nodes-base.aggregate",
+        "path": "Transform",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Wait",
+        "type": "n8n-nodes-base.wait",
+        "path": "Wait",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Webhook",
+        "type": "n8n-nodes-base.webhook",
+        "path": "Webhook",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Workflowtrigger",
+        "type": "n8n-nodes-base.WorkflowTrigger",
+        "path": "Workflowtrigger",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Writebinaryfile",
+        "type": "n8n-nodes-base.writeBinaryFile",
+        "path": "Writebinaryfile",
+        "categories": [
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Xml",
+        "type": "n8n-nodes-base.xml",
+        "path": "Xml",
+        "categories": [
+          "Core Nodes"
+        ]
+      }
+    ],
+    "Development": [
+      {
+        "name": "Airtop",
+        "type": "n8n-nodes-base.airtop",
+        "path": "Airtop",
+        "categories": [
+          "Productivity",
+          "Development"
+        ]
+      },
+      {
+        "name": "Aitransform",
+        "type": "n8n-nodes-base.aiTransform",
+        "path": "Aitransform",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Amqp",
+        "type": "n8n-nodes-base.amqp",
+        "path": "Amqp",
+        "categories": [
+          "Development",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Aws",
+        "type": "n8n-nodes-base.awsLambda",
+        "path": "Aws",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Bitbucket",
+        "type": "n8n-nodes-base.bitbucketTrigger",
+        "path": "Bitbucket",
+        "categories": [
+          "Development",
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Bubble",
+        "type": "n8n-nodes-base.bubble",
+        "path": "Bubble",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Circleci",
+        "type": "n8n-nodes-base.circleCi",
+        "path": "Circleci",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Cloudflare",
+        "type": "n8n-nodes-base.cloudflare",
+        "path": "Cloudflare",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Cockpit",
+        "type": "n8n-nodes-base.cockpit",
+        "path": "Cockpit",
+        "categories": [
+          "Marketing",
+          "Development"
+        ]
+      },
+      {
+        "name": "Code",
+        "type": "n8n-nodes-base.code",
+        "path": "Code",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Contentful",
+        "type": "n8n-nodes-base.contentful",
+        "path": "Contentful",
+        "categories": [
+          "Marketing",
+          "Development"
+        ]
+      },
+      {
+        "name": "Cortex",
+        "type": "n8n-nodes-base.cortex",
+        "path": "Cortex",
+        "categories": [
+          "Development",
+          "Analytics"
+        ]
+      },
+      {
+        "name": "Cratedb",
+        "type": "n8n-nodes-base.crateDb",
+        "path": "Cratedb",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Crypto",
+        "type": "n8n-nodes-base.crypto",
+        "path": "Crypto",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Customerio",
+        "type": "n8n-nodes-base.customerIo",
+        "path": "Customerio",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Debughelper",
+        "type": "n8n-nodes-base.debughelper",
+        "path": "Debughelper",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Elastic",
+        "type": "n8n-nodes-base.elasticsearch",
+        "path": "Elastic",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Elasticsearch",
+        "type": "n8n-nodes-base.elasticsearch",
+        "path": "Elasticsearch",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Elasticsecurity",
+        "type": "n8n-nodes-base.elasticSecurity",
+        "path": "Elasticsecurity",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Errortrigger",
+        "type": "n8n-nodes-base.errorTrigger",
+        "path": "Errortrigger",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Executecommand",
+        "type": "n8n-nodes-base.executeCommand",
+        "path": "Executecommand",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Executiondata",
+        "type": "n8n-nodes-base.executionData",
+        "path": "Executiondata",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Facebook",
+        "type": "n8n-nodes-base.facebookGraphApi",
+        "path": "Facebook",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Filemaker",
+        "type": "n8n-nodes-base.filemaker",
+        "path": "Filemaker",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Ftp",
+        "type": "n8n-nodes-base.ftp",
+        "path": "Ftp",
+        "categories": [
+          "Core Nodes",
+          "Data & Storage",
+          "Development",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Function",
+        "type": "n8n-nodes-base.function",
+        "path": "Function",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Functionitem",
+        "type": "n8n-nodes-base.functionItem",
+        "path": "Functionitem",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Git",
+        "type": "n8n-nodes-base.git",
+        "path": "Git",
+        "categories": [
+          "Core Nodes",
+          "Development"
+        ]
+      },
+      {
+        "name": "Github",
+        "type": "n8n-nodes-base.github",
+        "path": "Github",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Gitlab",
+        "type": "n8n-nodes-base.gitlab",
+        "path": "Gitlab",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Gong",
+        "type": "n8n-nodes-base.gong",
+        "path": "Gong",
+        "categories": [
+          "Development",
+          "Developer Tools"
+        ]
+      },
+      {
+        "name": "Grafana",
+        "type": "n8n-nodes-base.grafana",
+        "path": "Grafana",
+        "categories": [
+          "Development",
+          "Analytics"
+        ]
+      },
+      {
+        "name": "Graphql",
+        "type": "n8n-nodes-base.graphql",
+        "path": "Graphql",
+        "categories": [
+          "Data & Storage",
+          "Development"
+        ]
+      },
+      {
+        "name": "Httprequest",
+        "type": "n8n-nodes-base.httpRequest",
+        "path": "Httprequest",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Jenkins",
+        "type": "n8n-nodes-base.jenkins",
+        "path": "Jenkins",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Jira",
+        "type": "n8n-nodes-base.jira",
+        "path": "Jira",
+        "categories": [
+          "Development",
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Jwt",
+        "type": "n8n-nodes-base.jwt",
+        "path": "Jwt",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Kafka",
+        "type": "n8n-nodes-base.kafka",
+        "path": "Kafka",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Ldap",
+        "type": "n8n-nodes-base.ldap",
+        "path": "Ldap",
+        "categories": [
+          "Development",
+          "Developer Tools"
+        ]
+      },
+      {
+        "name": "Mailgun",
+        "type": "n8n-nodes-base.mailgun",
+        "path": "Mailgun",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Mailjet",
+        "type": "n8n-nodes-base.mailjet",
+        "path": "Mailjet",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Mandrill",
+        "type": "n8n-nodes-base.mandrill",
+        "path": "Mandrill",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Metabase",
+        "type": "n8n-nodes-base.metabase",
+        "path": "Metabase",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Misp",
+        "type": "n8n-nodes-base.misp",
+        "path": "Misp",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Mongodb",
+        "type": "n8n-nodes-base.mongoDb",
+        "path": "Mongodb",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Mqtt",
+        "type": "n8n-nodes-base.mqtt",
+        "path": "Mqtt",
+        "categories": [
+          "Development",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Msg91",
+        "type": "n8n-nodes-base.msg91",
+        "path": "Msg91",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Mysql",
+        "type": "n8n-nodes-base.mySql",
+        "path": "Mysql",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "N8N",
+        "type": "n8n-nodes-base.n8n",
+        "path": "N8N",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Netlify",
+        "type": "n8n-nodes-base.netlify",
+        "path": "Netlify",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Netscaler",
+        "type": "n8n-nodes-base.netscalerAdc",
+        "path": "Netscaler",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Npm",
+        "type": "n8n-nodes-base.npm",
+        "path": "Npm",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Okta",
+        "type": "n8n-nodes-base.okta",
+        "path": "Okta",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Pagerduty",
+        "type": "n8n-nodes-base.pagerDuty",
+        "path": "Pagerduty",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Peekalink",
+        "type": "n8n-nodes-base.peekalink",
+        "path": "Peekalink",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Plivo",
+        "type": "n8n-nodes-base.plivo",
+        "path": "Plivo",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Postbin",
+        "type": "n8n-nodes-base.postbin",
+        "path": "Postbin",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Postgres",
+        "type": "n8n-nodes-base.postgres",
+        "path": "Postgres",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Posthog",
+        "type": "n8n-nodes-base.postHog",
+        "path": "Posthog",
+        "categories": [
+          "Analytics",
+          "Development"
+        ]
+      },
+      {
+        "name": "Postmark",
+        "type": "n8n-nodes-base.postmarkTrigger",
+        "path": "Postmark",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Questdb",
+        "type": "n8n-nodes-base.questDb",
+        "path": "Questdb",
+        "categories": [
+          "Data & Storage",
+          "Development"
+        ]
+      },
+      {
+        "name": "Rabbitmq",
+        "type": "n8n-nodes-base.rabbitmq",
+        "path": "Rabbitmq",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Redis",
+        "type": "n8n-nodes-base.redis",
+        "path": "Redis",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Rundeck",
+        "type": "n8n-nodes-base.rundeck",
+        "path": "Rundeck",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "S3",
+        "type": "n8n-nodes-base.s3",
+        "path": "S3",
+        "categories": [
+          "Development",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Segment",
+        "type": "n8n-nodes-base.segment",
+        "path": "Segment",
+        "categories": [
+          "Analytics",
+          "Development"
+        ]
+      },
+      {
+        "name": "Sentryio",
+        "type": "n8n-nodes-base.sentryIo",
+        "path": "Sentryio",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Signl4",
+        "type": "n8n-nodes-base.signl4",
+        "path": "Signl4",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Splunk",
+        "type": "n8n-nodes-base.splunk",
+        "path": "Splunk",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Ssetrigger",
+        "type": "n8n-nodes-base.sseTrigger",
+        "path": "Ssetrigger",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Ssh",
+        "type": "n8n-nodes-base.ssh",
+        "path": "Ssh",
+        "categories": [
+          "Core Nodes",
+          "Development"
+        ]
+      },
+      {
+        "name": "Taiga",
+        "type": "n8n-nodes-base.taiga",
+        "path": "Taiga",
+        "categories": [
+          "Development",
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Thehive",
+        "type": "n8n-nodes-base.theHive",
+        "path": "Thehive",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Thehiveproject",
+        "type": "n8n-nodes-base.theHiveProject",
+        "path": "Thehiveproject",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Timescaledb",
+        "type": "n8n-nodes-base.timescaleDb",
+        "path": "Timescaledb",
+        "categories": [
+          "Data & Storage",
+          "Development"
+        ]
+      },
+      {
+        "name": "Travisci",
+        "type": "n8n-nodes-base.travisCi",
+        "path": "Travisci",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Twilio",
+        "type": "n8n-nodes-base.twilio",
+        "path": "Twilio",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Uptimerobot",
+        "type": "n8n-nodes-base.uptimeRobot",
+        "path": "Uptimerobot",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Urlscanio",
+        "type": "n8n-nodes-base.urlScanIo",
+        "path": "Urlscanio",
+        "categories": [
+          "Development",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Venafi",
+        "type": "n8n-nodes-base.venafiTlsProtectDatacenter",
+        "path": "Venafi",
+        "categories": [
+          "Development"
+        ]
+      },
+      {
+        "name": "Webhook",
+        "type": "n8n-nodes-base.webhook",
+        "path": "Webhook",
+        "categories": [
+          "Development",
+          "Core Nodes"
+        ]
+      }
+    ],
+    "Marketing": [
+      {
+        "name": "Actionnetwork",
+        "type": "n8n-nodes-base.actionNetwork",
+        "path": "Actionnetwork",
+        "categories": [
+          "Sales",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Activecampaign",
+        "type": "n8n-nodes-base.activeCampaign",
+        "path": "Activecampaign",
+        "categories": [
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Agilecrm",
+        "type": "n8n-nodes-base.agileCrm",
+        "path": "Agilecrm",
+        "categories": [
+          "Marketing",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Apitemplateio",
+        "type": "n8n-nodes-base.apiTemplateIo",
+        "path": "Apitemplateio",
+        "categories": [
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Automizy",
+        "type": "n8n-nodes-base.automizy",
+        "path": "Automizy",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Autopilot",
+        "type": "n8n-nodes-base.autopilot",
+        "path": "Autopilot",
+        "categories": [
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Bannerbear",
+        "type": "n8n-nodes-base.bannerbear",
+        "path": "Bannerbear",
+        "categories": [
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Brevo",
+        "type": "n8n-nodes-base.brevo",
+        "path": "Brevo",
+        "categories": [
+          "Marketing",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Cockpit",
+        "type": "n8n-nodes-base.cockpit",
+        "path": "Cockpit",
+        "categories": [
+          "Marketing",
+          "Development"
+        ]
+      },
+      {
+        "name": "Contentful",
+        "type": "n8n-nodes-base.contentful",
+        "path": "Contentful",
+        "categories": [
+          "Marketing",
+          "Development"
+        ]
+      },
+      {
+        "name": "Convertkit",
+        "type": "n8n-nodes-base.convertKit",
+        "path": "Convertkit",
+        "categories": [
+          "Marketing",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Copper",
+        "type": "n8n-nodes-base.copper",
+        "path": "Copper",
+        "categories": [
+          "Marketing",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Editimage",
+        "type": "n8n-nodes-base.editImage",
+        "path": "Editimage",
+        "categories": [
+          "Marketing",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Egoi",
+        "type": "n8n-nodes-base.egoi",
+        "path": "Egoi",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Emelia",
+        "type": "n8n-nodes-base.emelia",
+        "path": "Emelia",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "FacebookLeadAds",
+        "type": "n8n-nodes-base.facebookLeadAdsTrigger",
+        "path": "FacebookLeadAds",
+        "categories": [
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Freshworkscrm",
+        "type": "n8n-nodes-base.freshworksCrm",
+        "path": "Freshworkscrm",
+        "categories": [
+          "Marketing",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Getresponse",
+        "type": "n8n-nodes-base.getResponse",
+        "path": "Getresponse",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Ghost",
+        "type": "n8n-nodes-base.ghost",
+        "path": "Ghost",
+        "categories": [
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Hackernews",
+        "type": "n8n-nodes-base.hackerNews",
+        "path": "Hackernews",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Highlevel",
+        "type": "n8n-nodes-base.highLevel",
+        "path": "Highlevel",
+        "categories": [
+          "Marketing",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Iterable",
+        "type": "n8n-nodes-base.iterable",
+        "path": "Iterable",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Lemlist",
+        "type": "n8n-nodes-base.lemlist",
+        "path": "Lemlist",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Linkedin",
+        "type": "n8n-nodes-base.linkedIn",
+        "path": "Linkedin",
+        "categories": [
+          "Marketing",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Mailcheck",
+        "type": "n8n-nodes-base.mailcheck",
+        "path": "Mailcheck",
+        "categories": [
+          "Utility",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Mailchimp",
+        "type": "n8n-nodes-base.mailchimp",
+        "path": "Mailchimp",
+        "categories": [
+          "Marketing",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Mailerlite",
+        "type": "n8n-nodes-base.mailerLite",
+        "path": "Mailerlite",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Mautic",
+        "type": "n8n-nodes-base.mautic",
+        "path": "Mautic",
+        "categories": [
+          "Marketing",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Medium",
+        "type": "n8n-nodes-base.medium",
+        "path": "Medium",
+        "categories": [
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Phantombuster",
+        "type": "n8n-nodes-base.phantombuster",
+        "path": "Phantombuster",
+        "categories": [
+          "Sales",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Quickchart",
+        "type": "n8n-nodes-base.quickChart",
+        "path": "Quickchart",
+        "categories": [
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Sendgrid",
+        "type": "n8n-nodes-base.sendGrid",
+        "path": "Sendgrid",
+        "categories": [
+          "Marketing",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Sendy",
+        "type": "n8n-nodes-base.sendy",
+        "path": "Sendy",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Storyblok",
+        "type": "n8n-nodes-base.storyblok",
+        "path": "Storyblok",
+        "categories": [
+          "Data & Storage",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Strapi",
+        "type": "n8n-nodes-base.strapi",
+        "path": "Strapi",
+        "categories": [
+          "Data & Storage",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "SurveyMonkey",
+        "type": "n8n-nodes-base.surveyMonkeyTrigger",
+        "path": "SurveyMonkey",
+        "categories": [
+          "Marketing",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Twitter",
+        "type": "n8n-nodes-base.twitter",
+        "path": "Twitter",
+        "categories": [
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Webflow",
+        "type": "n8n-nodes-base.webflow",
+        "path": "Webflow",
+        "categories": [
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Wordpress",
+        "type": "n8n-nodes-base.wordpress",
+        "path": "Wordpress",
+        "categories": [
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Youtube",
+        "type": "n8n-nodes-base.youTube",
+        "path": "Youtube",
+        "categories": [
+          "Marketing"
+        ]
+      }
+    ],
+    "HITL": [
+      {
+        "name": "Discord",
+        "type": "n8n-nodes-base.discord",
+        "path": "Discord",
+        "categories": [
+          "Communication",
+          "HITL"
+        ]
+      },
+      {
+        "name": "Emailsend",
+        "type": "n8n-nodes-base.emailSend",
+        "path": "Emailsend",
+        "categories": [
+          "Communication",
+          "HITL",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Gmail",
+        "type": "n8n-nodes-base.gmail",
+        "path": "Gmail",
+        "categories": [
+          "Communication",
+          "HITL"
+        ]
+      },
+      {
+        "name": "Slack",
+        "type": "n8n-nodes-base.slack",
+        "path": "Slack",
+        "categories": [
+          "Communication",
+          "HITL"
+        ]
+      },
+      {
+        "name": "Telegram",
+        "type": "n8n-nodes-base.telegram",
+        "path": "Telegram",
+        "categories": [
+          "Communication",
+          "HITL"
+        ]
+      },
+      {
+        "name": "Whatsapp",
+        "type": "n8n-nodes-base.whatsApp",
+        "path": "Whatsapp",
+        "categories": [
+          "Communication",
+          "HITL"
+        ]
+      }
+    ],
+    "Miscellaneous": [
+      {
+        "name": "Bamboohr",
+        "type": "n8n-nodes-base.bambooHr",
+        "path": "Bamboohr",
+        "categories": [
+          "Miscellaneous"
+        ]
+      },
+      {
+        "name": "Dhl",
+        "type": "n8n-nodes-base.dhl",
+        "path": "Dhl",
+        "categories": [
+          "Miscellaneous"
+        ]
+      },
+      {
+        "name": "Figma",
+        "type": "n8n-nodes-base.figmaTrigger",
+        "path": "Figma",
+        "categories": [
+          "Miscellaneous"
+        ]
+      },
+      {
+        "name": "Homeassistant",
+        "type": "n8n-nodes-base.homeAssistant",
+        "path": "Homeassistant",
+        "categories": [
+          "Miscellaneous"
+        ]
+      },
+      {
+        "name": "Jinaai",
+        "type": "n8n-nodes-base.jinaAi",
+        "path": "Jinaai",
+        "categories": [
+          "Miscellaneous"
+        ]
+      },
+      {
+        "name": "Lingvanex",
+        "type": "n8n-nodes-base.lingvaNex",
+        "path": "Lingvanex",
+        "categories": [
+          "Miscellaneous"
+        ]
+      },
+      {
+        "name": "Nasa",
+        "type": "n8n-nodes-base.nasa",
+        "path": "Nasa",
+        "categories": [
+          "Miscellaneous"
+        ]
+      },
+      {
+        "name": "Onfleet",
+        "type": "n8n-nodes-base.onfleet",
+        "path": "Onfleet",
+        "categories": [
+          "Miscellaneous"
+        ]
+      },
+      {
+        "name": "Openweathermap",
+        "type": "n8n-nodes-base.openWeatherMap",
+        "path": "Openweathermap",
+        "categories": [
+          "Miscellaneous",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Philipshue",
+        "type": "n8n-nodes-base.philipsHue",
+        "path": "Philipshue",
+        "categories": [
+          "Miscellaneous"
+        ]
+      },
+      {
+        "name": "Spotify",
+        "type": "n8n-nodes-base.spotify",
+        "path": "Spotify",
+        "categories": [
+          "Miscellaneous"
+        ]
+      },
+      {
+        "name": "Workable",
+        "type": "n8n-nodes-base.workableTrigger",
+        "path": "Workable",
+        "categories": [
+          "Miscellaneous"
+        ]
+      }
+    ],
+    "Utility": [
+      {
+        "name": "Bitly",
+        "type": "n8n-nodes-base.bitly",
+        "path": "Bitly",
+        "categories": [
+          "Utility"
+        ]
+      },
+      {
+        "name": "Brandfetch",
+        "type": "n8n-nodes-base.Brandfetch",
+        "path": "Brandfetch",
+        "categories": [
+          "Utility",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Cal",
+        "type": "n8n-nodes-base.calTrigger",
+        "path": "Cal",
+        "categories": [
+          "Productivity",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Calendly",
+        "type": "n8n-nodes-base.calendlyTrigger",
+        "path": "Calendly",
+        "categories": [
+          "Productivity",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Deepl",
+        "type": "n8n-nodes-base.deepL",
+        "path": "Deepl",
+        "categories": [
+          "Utility"
+        ]
+      },
+      {
+        "name": "Ftp",
+        "type": "n8n-nodes-base.ftp",
+        "path": "Ftp",
+        "categories": [
+          "Core Nodes",
+          "Data & Storage",
+          "Development",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Gsuiteadmin",
+        "type": "n8n-nodes-base.gSuiteAdmin",
+        "path": "Gsuiteadmin",
+        "categories": [
+          "Utility"
+        ]
+      },
+      {
+        "name": "Mailcheck",
+        "type": "n8n-nodes-base.mailcheck",
+        "path": "Mailcheck",
+        "categories": [
+          "Utility",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Mindee",
+        "type": "n8n-nodes-base.mindee",
+        "path": "Mindee",
+        "categories": [
+          "Utility"
+        ]
+      },
+      {
+        "name": "Onesimpleapi",
+        "type": "n8n-nodes-base.oneSimpleApi",
+        "path": "Onesimpleapi",
+        "categories": [
+          "Utility"
+        ]
+      },
+      {
+        "name": "Openai",
+        "type": "n8n-nodes-base.openAi",
+        "path": "Openai",
+        "categories": [
+          "Utility"
+        ]
+      },
+      {
+        "name": "Openthesaurus",
+        "type": "n8n-nodes-base.openThesaurus",
+        "path": "Openthesaurus",
+        "categories": [
+          "Utility"
+        ]
+      },
+      {
+        "name": "Openweathermap",
+        "type": "n8n-nodes-base.openWeatherMap",
+        "path": "Openweathermap",
+        "categories": [
+          "Miscellaneous",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Respondtowebhook",
+        "type": "n8n-nodes-base.respondToWebhook",
+        "path": "Respondtowebhook",
+        "categories": [
+          "Core Nodes",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Stopanderror",
+        "type": "n8n-nodes-base.stopAndError",
+        "path": "Stopanderror",
+        "categories": [
+          "Core Nodes",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Toggl",
+        "type": "n8n-nodes-base.togglTrigger",
+        "path": "Toggl",
+        "categories": [
+          "Productivity",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Urlscanio",
+        "type": "n8n-nodes-base.urlScanIo",
+        "path": "Urlscanio",
+        "categories": [
+          "Development",
+          "Utility"
+        ]
+      },
+      {
+        "name": "Yourls",
+        "type": "n8n-nodes-base.yourls",
+        "path": "Yourls",
+        "categories": [
+          "Utility"
+        ]
+      }
+    ],
+    "Communication": [
+      {
+        "name": "Amqp",
+        "type": "n8n-nodes-base.amqp",
+        "path": "Amqp",
+        "categories": [
+          "Development",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Automizy",
+        "type": "n8n-nodes-base.automizy",
+        "path": "Automizy",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Brevo",
+        "type": "n8n-nodes-base.brevo",
+        "path": "Brevo",
+        "categories": [
+          "Marketing",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Cisco",
+        "type": "n8n-nodes-base.ciscoWebex",
+        "path": "Cisco",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Clickup",
+        "type": "n8n-nodes-base.clickUp",
+        "path": "Clickup",
+        "categories": [
+          "Productivity",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Customerio",
+        "type": "n8n-nodes-base.customerIo",
+        "path": "Customerio",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Demio",
+        "type": "n8n-nodes-base.demio",
+        "path": "Demio",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Discord",
+        "type": "n8n-nodes-base.discord",
+        "path": "Discord",
+        "categories": [
+          "Communication",
+          "HITL"
+        ]
+      },
+      {
+        "name": "Discourse",
+        "type": "n8n-nodes-base.discourse",
+        "path": "Discourse",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Disqus",
+        "type": "n8n-nodes-base.disqus",
+        "path": "Disqus",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Egoi",
+        "type": "n8n-nodes-base.egoi",
+        "path": "Egoi",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Emailreadimap",
+        "type": "n8n-nodes-base.emailReadImap",
+        "path": "Emailreadimap",
+        "categories": [
+          "Communication",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Emailsend",
+        "type": "n8n-nodes-base.emailSend",
+        "path": "Emailsend",
+        "categories": [
+          "Communication",
+          "HITL",
+          "Core Nodes"
+        ]
+      },
+      {
+        "name": "Emelia",
+        "type": "n8n-nodes-base.emelia",
+        "path": "Emelia",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "FormIo",
+        "type": "n8n-nodes-base.formIoTrigger",
+        "path": "FormIo",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Formstack",
+        "type": "n8n-nodes-base.formstackTrigger",
+        "path": "Formstack",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Freshdesk",
+        "type": "n8n-nodes-base.freshdesk",
+        "path": "Freshdesk",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Getresponse",
+        "type": "n8n-nodes-base.getResponse",
+        "path": "Getresponse",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Gmail",
+        "type": "n8n-nodes-base.gmail",
+        "path": "Gmail",
+        "categories": [
+          "Communication",
+          "HITL"
+        ]
+      },
+      {
+        "name": "Gotify",
+        "type": "n8n-nodes-base.gotify",
+        "path": "Gotify",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Gotowebinar",
+        "type": "n8n-nodes-base.goToWebinar",
+        "path": "Gotowebinar",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Hackernews",
+        "type": "n8n-nodes-base.hackerNews",
+        "path": "Hackernews",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Halopsa",
+        "type": "n8n-nodes-base.haloPSA",
+        "path": "Halopsa",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Helpscout",
+        "type": "n8n-nodes-base.helpScout",
+        "path": "Helpscout",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Intercom",
+        "type": "n8n-nodes-base.intercom",
+        "path": "Intercom",
+        "categories": [
+          "Communication",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Iterable",
+        "type": "n8n-nodes-base.iterable",
+        "path": "Iterable",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "JotForm",
+        "type": "n8n-nodes-base.jotFormTrigger",
+        "path": "JotForm",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Keap",
+        "type": "n8n-nodes-base.keap",
+        "path": "Keap",
+        "categories": [
+          "Sales",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Kobotoolbox",
+        "type": "n8n-nodes-base.koBoToolbox",
+        "path": "Kobotoolbox",
+        "categories": [
+          "Communication",
+          "Data & Storage"
+        ]
+      },
+      {
+        "name": "Lemlist",
+        "type": "n8n-nodes-base.lemlist",
+        "path": "Lemlist",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Line",
+        "type": "n8n-nodes-base.line",
+        "path": "Line",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Linkedin",
+        "type": "n8n-nodes-base.linkedIn",
+        "path": "Linkedin",
+        "categories": [
+          "Marketing",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Mailchimp",
+        "type": "n8n-nodes-base.mailchimp",
+        "path": "Mailchimp",
+        "categories": [
+          "Marketing",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Mailerlite",
+        "type": "n8n-nodes-base.mailerLite",
+        "path": "Mailerlite",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Mailgun",
+        "type": "n8n-nodes-base.mailgun",
+        "path": "Mailgun",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Mailjet",
+        "type": "n8n-nodes-base.mailjet",
+        "path": "Mailjet",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Mandrill",
+        "type": "n8n-nodes-base.mandrill",
+        "path": "Mandrill",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Matrix",
+        "type": "n8n-nodes-base.matrix",
+        "path": "Matrix",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Mattermost",
+        "type": "n8n-nodes-base.mattermost",
+        "path": "Mattermost",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Mautic",
+        "type": "n8n-nodes-base.mautic",
+        "path": "Mautic",
+        "categories": [
+          "Marketing",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Messagebird",
+        "type": "n8n-nodes-base.messageBird",
+        "path": "Messagebird",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Mocean",
+        "type": "n8n-nodes-base.mocean",
+        "path": "Mocean",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Monicacrm",
+        "type": "n8n-nodes-base.monicaCrm",
+        "path": "Monicacrm",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Mqtt",
+        "type": "n8n-nodes-base.mqtt",
+        "path": "Mqtt",
+        "categories": [
+          "Development",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Msg91",
+        "type": "n8n-nodes-base.msg91",
+        "path": "Msg91",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Pagerduty",
+        "type": "n8n-nodes-base.pagerDuty",
+        "path": "Pagerduty",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Plivo",
+        "type": "n8n-nodes-base.plivo",
+        "path": "Plivo",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Postmark",
+        "type": "n8n-nodes-base.postmarkTrigger",
+        "path": "Postmark",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Pushbullet",
+        "type": "n8n-nodes-base.pushbullet",
+        "path": "Pushbullet",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Pushcut",
+        "type": "n8n-nodes-base.pushcut",
+        "path": "Pushcut",
+        "categories": [
+          "Communication",
+          "Productivity"
+        ]
+      },
+      {
+        "name": "Pushover",
+        "type": "n8n-nodes-base.pushover",
+        "path": "Pushover",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Reddit",
+        "type": "n8n-nodes-base.reddit",
+        "path": "Reddit",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Rocketchat",
+        "type": "n8n-nodes-base.rocketchat",
+        "path": "Rocketchat",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Rundeck",
+        "type": "n8n-nodes-base.rundeck",
+        "path": "Rundeck",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Salesforce",
+        "type": "n8n-nodes-base.salesforce",
+        "path": "Salesforce",
+        "categories": [
+          "Sales",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Sendgrid",
+        "type": "n8n-nodes-base.sendGrid",
+        "path": "Sendgrid",
+        "categories": [
+          "Marketing",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Sendy",
+        "type": "n8n-nodes-base.sendy",
+        "path": "Sendy",
+        "categories": [
+          "Communication",
+          "Marketing"
+        ]
+      },
+      {
+        "name": "Servicenow",
+        "type": "n8n-nodes-base.serviceNow",
+        "path": "Servicenow",
+        "categories": [
+          "Productivity",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Signl4",
+        "type": "n8n-nodes-base.signl4",
+        "path": "Signl4",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Slack",
+        "type": "n8n-nodes-base.slack",
+        "path": "Slack",
+        "categories": [
+          "Communication",
+          "HITL"
+        ]
+      },
+      {
+        "name": "Sms77",
+        "type": "n8n-nodes-base.sms77",
+        "path": "Sms77",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Spontit",
+        "type": "n8n-nodes-base.spontit",
+        "path": "Spontit",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "SurveyMonkey",
+        "type": "n8n-nodes-base.surveyMonkeyTrigger",
+        "path": "SurveyMonkey",
+        "categories": [
+          "Marketing",
+          "Communication"
+        ]
+      },
+      {
+        "name": "Telegram",
+        "type": "n8n-nodes-base.telegram",
+        "path": "Telegram",
+        "categories": [
+          "Communication",
+          "HITL"
+        ]
+      },
+      {
+        "name": "Twilio",
+        "type": "n8n-nodes-base.twilio",
+        "path": "Twilio",
+        "categories": [
+          "Communication",
+          "Development"
+        ]
+      },
+      {
+        "name": "Twist",
+        "type": "n8n-nodes-base.twist",
+        "path": "Twist",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Typeform",
+        "type": "n8n-nodes-base.typeformTrigger",
+        "path": "Typeform",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Vero",
+        "type": "n8n-nodes-base.vero",
+        "path": "Vero",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Vonage",
+        "type": "n8n-nodes-base.vonage",
+        "path": "Vonage",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Whatsapp",
+        "type": "n8n-nodes-base.whatsApp",
+        "path": "Whatsapp",
+        "categories": [
+          "Communication",
+          "HITL"
+        ]
+      },
+      {
+        "name": "Wufoo",
+        "type": "n8n-nodes-base.wufooTrigger",
+        "path": "Wufoo",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Zammad",
+        "type": "n8n-nodes-base.zammad",
+        "path": "Zammad",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Zendesk",
+        "type": "n8n-nodes-base.zendesk",
+        "path": "Zendesk",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Zoho",
+        "type": "n8n-nodes-base.zohoCrm",
+        "path": "Zoho",
+        "categories": [
+          "Communication",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Zoom",
+        "type": "n8n-nodes-base.zoom",
+        "path": "Zoom",
+        "categories": [
+          "Communication"
+        ]
+      },
+      {
+        "name": "Zulip",
+        "type": "n8n-nodes-base.zulip",
+        "path": "Zulip",
+        "categories": [
+          "Communication"
+        ]
+      }
+    ],
+    "Developer Tools": [
+      {
+        "name": "Gong",
+        "type": "n8n-nodes-base.gong",
+        "path": "Gong",
+        "categories": [
+          "Development",
+          "Developer Tools"
+        ]
+      },
+      {
+        "name": "Ldap",
+        "type": "n8n-nodes-base.ldap",
+        "path": "Ldap",
+        "categories": [
+          "Development",
+          "Developer Tools"
+        ]
+      }
+    ]
+  },
+  "errors": [
+    {
+      "node_dir": "N8nTrainingCustomerDatastore",
+      "error": "找不到有效的 .node.json 檔案或類別資訊"
+    },
+    {
+      "node_dir": "N8nTrainingCustomerMessenger",
+      "error": "找不到有效的 .node.json 檔案或類別資訊"
+    }
+  ],
+  "stats": {
+    "category_counts": {
+      "Sales": 32,
+      "Finance & Accounting": 10,
+      "Analytics": 10,
+      "Productivity": 34,
+      "Evaluation": 1,
+      "Data & Storage": 40,
+      "Miscellaneous ": 0,
+      "Core Nodes": 73,
+      "Development": 81,
+      "Marketing": 40,
+      "HITL": 6,
+      "Miscellaneous": 12,
+      "Utility": 18,
+      "Communication": 76,
+      "Developer Tools": 2
+    },
+    "total_nodes": 435,
+    "error_count": 2
+  }
+}
