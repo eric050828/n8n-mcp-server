@@ -46,7 +46,7 @@ graph LR
     sc[SourceControl API]
     
     %% 定義中樞節點與 MCP Tool
-    n8n[("n8n-mcp-server")]
+    n8n[("n8n-sdk-python")]
     tool[("n8n-mcp-server MCP Tool")]
     
     %% Workflows API 端點連線
